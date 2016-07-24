@@ -956,8 +956,8 @@ attack.JG63.2.text=Heal Venonat equal to the damage done to the Defending Pokém
 
 //Jungle Set - Trainer Cards
 card.JG64.name=Poke Ball
-card.JG64.text=Flip a coin. If heads, you may search your deck for any Basic Pokémon or Evolution card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward.
+card.JG64.text=Flip a coin. If heads, you may search your deck for any Basic Pokémon or Evolution card. Show that card to your opponent, and put it into your hand. Shuffle your deck afterward.
 
 //Jungle Set - Decks
-deck.waterblast.name=Water Blast
-deck.powerreserve.name=Power Reserve
+deck.waterBlast.name=Water Blast
+deck.powerReserve.name=Power Reserve
