@@ -152,6 +152,13 @@ item.card.blank.fairy.holoRare.name=Blank Fairy Card (holo rare)
 item.card.blank.fairy.ultraRare.name=Blank Fairy Card (ultra rare)
 item.card.blank.fairy.secretRare.name=Blank Fairy Card (secret rare)
 
+battle.selector.newactive=Select a new Active card
+
+// Attack Effects
+attack.effect.changeresistance.selector=Pick new Resistance
+attack.effect.changeweakness.selector=Pick new Weakness
+attack.effect.switch.byopp=Pick new Active Pokémon
+
 //Base Set
 set.BS.name=Base Set
 
@@ -159,7 +166,9 @@ set.BS.name=Base Set
 //Alakazam
 card.BS1.name=Alakazam
 ability.BS1.name=Damage Swap
-ability.BS1.text=During your turn, you may move 1 damage counter from 1 of your Pokémon to another as long as you don't Knock Out that Pokémon. Disabled by Sleep, Confusion and Paralysis.
+ability.BS1.text=You may move 1 damage counter from 1 of your Pokémon to another as often as you like as long as you don't Knock Out that Pokémon. Disabled by Sleep, Confusion and Paralysis.
+ability.BS1.selector.from=Move damage from
+ability.BS1.selector.to=Move damage to
 attack.BS1.1.name=Confuse Ray
 attack.BS1.1.text=Flip a coin. If heads, the Defending Pokémon is now Confused.
 //Blastoise
@@ -273,7 +282,9 @@ attack.BS20.2.text=Flip a coin. If heads, add 10 damage to this attack. If tails
 //Electrode
 card.BS21.name=Electrode
 ability.BS21.name=Buzzap
-ability.BS21.text=During your turn, you may knock out Electrode, and attach it to one of your other Pokémon. Electrode now counts as 2 Energy of a type of your choosing. Disabled by Sleep, Confusion and Paralysis.
+ability.BS21.text=You may knock out Electrode, and attach it to one of your other Pokémon. Electrode now counts as 2 Energy of a type of your choosing. Disabled by Sleep, Confusion and Paralysis.
+ability.BS21.selector.chooseenergy=Choose Energy type
+ability.BS21.selector.chooseattach=Choose a Pokemon to attach to
 attack.BS21.1.name=Electric Shock
 attack.BS21.1.text=Flip a coin. If tails, Electrode does 10 damage to itself.
 //Pidgeotto
@@ -511,6 +522,8 @@ card.BS71.name=Computer Search
 card.BS71.text=Discard 2 other cards from your hand in order to search your deck for any card and put into your hand. Shuffle your deck afterward.
 card.BS72.name=Devolution Spray
 card.BS72.text=Chose 1 of your own Pokémon and a Stage of Evolution. Discard all Evolution cards of that Stage or higher and all current condition.
+card.BS72.effect.selector.choosepokemon=Choose a pokemon
+card.BS72.effect.selector.chooseevolution=Choose a Stage of Evolution
 card.BS73.name=Imposter Prof. Oak
 card.BS73.text=Your opponent shuffles their hand into their deck, then draws 7 cards.
 card.BS74.name=Item Finder
@@ -519,6 +532,8 @@ card.BS75.name=Lass
 card.BS75.text=Both players reveal their hands, and then shuffle all Trainers in their hands back into their decks.
 card.BS76.name=Pokémon Breeder
 card.BS76.text=Put a Stage 2 Pokémon in your hand onto a matching Basic Pokémon. Follows evolution rules.
+card.BS76.effect.selector.stage2=Choose a Stage 2 Pokémon
+card.BS76.effect.selector.basic=Choose a matching Basic Pokémon
 card.BS77.name=Pokémon Trader
 card.BS77.text=Trade a Pokémon from your hand for any Pokémon from your deck. Reveal both cards.
 card.BS78.name=Scoop Up
@@ -555,6 +570,7 @@ card.BS93.name=Gust of Wind
 card.BS93.text=Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.
 card.BS94.name=Potion
 card.BS94.text=Remove up to 2 damage counters from 1 of your Pokémon.
+card.BS94.effect.selector=Select a Pokémon to use Potion
 card.BS95.name=Switch
 card.BS95.text=Switch 1 of your Benched Pokémon with your Active Pokémon.
 
@@ -955,7 +971,7 @@ attack.JG63.2.name=Leech Life
 attack.JG63.2.text=Heal Venonat equal to the damage done to the Defending Pokémon.
 
 //Jungle Set - Trainer Cards
-card.JG64.name=Poke Ball
+card.JG64.name=Poké Ball
 card.JG64.text=Flip a coin. If heads, you may search your deck for any Basic Pokémon or Evolution card. Show that card to your opponent, and put it into your hand. Shuffle your deck afterward.
 
 //Jungle Set - Decks
