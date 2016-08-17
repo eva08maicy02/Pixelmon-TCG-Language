@@ -159,6 +159,13 @@ attack.effect.changeresistance.selector=Pick new Resistance
 attack.effect.changeweakness.selector=Pick new Weakness
 attack.effect.switch.byopp=Pick new Active Pokémon
 
+// Ability Effects
+ability.damageswap.selector.from=Move damage from
+ability.damageswap.selector.to=Move damage to
+ability.buzzap.selector.chooseenergy=Choose Energy type
+ability.buzzap.selector.chooseattach=Choose a Pokémon to attach to
+ability.raindance.selector.chooseattach=Choose a Pokémon to attach Water Energy
+
 //Base Set
 set.BS.name=Base Set
 
@@ -167,14 +174,12 @@ set.BS.name=Base Set
 card.BS1.name=Alakazam
 ability.BS1.name=Damage Swap
 ability.BS1.text=You may move 1 damage counter from 1 of your Pokémon to another as often as you like as long as you don't Knock Out that Pokémon. Disabled by Sleep, Confusion and Paralysis.
-ability.BS1.selector.from=Move damage from
-ability.BS1.selector.to=Move damage to
 attack.BS1.1.name=Confuse Ray
 attack.BS1.1.text=Flip a coin. If heads, the Defending Pokémon is now Confused.
 //Blastoise
 card.BS2.name=Blastoise
 ability.BS2.name=Rain Dance
-ability.BS2.text=During your turn, you may attach 1 Water Energy to 1 of your Pokemon. Disabled by Sleep, Confusion and Paralysis.
+ability.BS2.text=You may attach 1 Water Energy to 1 of your Pokemon as often as you like. Disabled by Sleep, Confusion and Paralysis.
 attack.BS2.1.name=Hydro Pump
 attack.BS2.1.text=Add 10 damage per Water Energy attached to Blastoise that is not used for this attack's Energy cost, up to 20 bonus damage.
 //Chansey
@@ -186,7 +191,7 @@ attack.BS3.2.text=Chansey does 80 damage to itself.
 //Charizard
 card.BS4.name=Charizard
 ability.BS4.name=Energy Burn
-ability.BS4.text=During your turn, you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. Disabled by Sleep, Confusion and Paralysis.
+ability.BS4.text=You may turn all Energy attached to Charizard into Fire Energy for the rest of the turn as often as you like. Disabled by Sleep, Confusion and Paralysis.
 attack.BS4.1.name=Fire Spin
 attack.BS4.1.text=Discard 2 Fire Energy attached to Charizard.
 //Clefairy
@@ -248,7 +253,7 @@ attack.BS14.2.text=Flip  a coin. If tails, Raichu does 30 damage to itself.
 //Venusaur
 card.BS15.name=Venusaur
 ability.BS15.name=Energy Transfer
-ability.BS15.text=During your turn, you may move Grass Energy card between your Pokémons. Disabled by Sleep, Confusion and Paralysis.
+ability.BS15.text=You may move Grass Energy card between your Pokémons as often as you like. Disabled by Sleep, Confusion and Paralysis.
 attack.BS15.1.name=Solarbeam
 //Zapdos
 card.BS16.name=Zapdos
@@ -283,8 +288,6 @@ attack.BS20.2.text=Flip a coin. If heads, add 10 damage to this attack. If tails
 card.BS21.name=Electrode
 ability.BS21.name=Buzzap
 ability.BS21.text=You may knock out Electrode, and attach it to one of your other Pokémon. Electrode now counts as 2 Energy of a type of your choosing. Disabled by Sleep, Confusion and Paralysis.
-ability.BS21.selector.chooseenergy=Choose Energy type
-ability.BS21.selector.chooseattach=Choose a Pokemon to attach to
 attack.BS21.1.name=Electric Shock
 attack.BS21.1.text=Flip a coin. If tails, Electrode does 10 damage to itself.
 //Pidgeotto
@@ -660,7 +663,7 @@ attack.JG10.2.text=
 //Snorlax
 card.JG11.name=Snorlax
 ability.JG11.1.name=Thick Skinned
-ability.JG11.1.text=Snorlax can't become Asleep, Confused, Paralyzed, or Poisoned. This power can't be used if Snorlax is already Asleep, Confused, or Paralyzed.
+ability.JG11.1.text=Snorlax can't become Asleep, Confused, Paralyzed, or Poisoned. Disabled if Snorlax is already Asleep, Confused, or Paralyzed.
 attack.JG11.1.name=Body Slam
 attack.JG11.1.text=Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
 //Vaporeon
@@ -684,7 +687,7 @@ attack.JG14.2.text=Flip a coin. If heads, the Defending Pokémon can't retreat d
 //Vileplume
 card.JG15.name=Vileplume
 ability.JG15.1.name=Heal
-ability.JG15.1.text=Before your attack you may flip a coin. If heads, remove 1 damage counter from 1 of your Pokémon. Disabled by Sleep, Confused, or Paralyzed.
+ability.JG15.1.text=Once during your turn you may flip a coin. If heads, remove 1 damage counter from 1 of your Pokémon. Disabled by Sleep, Confused, or Paralyzed.
 attack.JG15.1.name=Petal Dance
 attack.JG15.1.text=Flip 3 coins. This attack does 40 damage times the number of heads. Vileplume is now Confused (after doing damage).
 //Wigglytuff
@@ -756,7 +759,7 @@ attack.JG26.2.text=
 //Snorlax
 card.JG27.name=Snorlax
 ability.JG27.1.name=Thick Skinned
-ability.JG27.1.text=Snorlax can't become Asleep, Confused, Paralyzed, or Poisoned. This power can't be used if Snorlax is already Asleep, Confused, or Paralyzed.
+ability.JG27.1.text=Snorlax can't become Asleep, Confused, Paralyzed, or Poisoned. Disabled if Snorlax is already Asleep, Confused, or Paralyzed.
 attack.JG27.1.name=Body Slam
 attack.JG27.1.text=Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
 //Vaporeon
@@ -780,7 +783,7 @@ attack.JG30.2.text=Flip a coin. If heads, the Defending Pokémon can't retreat d
 //Vileplume
 card.JG31.name=Vileplume
 ability.JG31.1.name=Heal
-ability.JG31.1.text=Before your attack you may flip a coin. If heads, remove 1 damage counter from 1 of your Pokémon. Disabled by Sleep, Confused, or Paralyzed.
+ability.JG31.1.text=Once during your turn you may flip a coin. If heads, remove 1 damage counter from 1 of your Pokémon. Disabled by Sleep, Confused, or Paralyzed.
 attack.JG31.1.name=Petal Dance
 attack.JG31.1.text=Flip 3 coins. This attack does 40 damage times the number of heads. Vileplume is now Confused (after doing damage).
 //Wigglytuff
