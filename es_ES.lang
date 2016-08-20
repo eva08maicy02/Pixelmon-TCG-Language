@@ -364,8 +364,7 @@ attack.BS31.2.text=Hace 10 puntos más de daño sobre el Pokémon a la defensa.
 //Kadabra
 card.BS32.name=Kadabra
 attack.BS32.1.name=Recuperación
-attack.BS32.1.text=
-Descarta 1 carta de Energía Psíquica unida a Kadabra. Quita todos los contadores de daño de Kadabra.
+attack.BS32.1.text=Descarta 1 carta de Energía Psíquica unida a Kadabra. Quita todos los contadores de daño de Kadabra.
 attack.BS32.2.name=Super Psíquico
 //Kakuna
 card.BS33.name=Kakuna
