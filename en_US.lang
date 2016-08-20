@@ -151,7 +151,15 @@ item.card.blank.fairy.holo_rare.name=Blank Fairy Card (holo rare)
 item.card.blank.fairy.ultra_rare.name=Blank Fairy Card (ultra rare)
 item.card.blank.fairy.secretRare.name=Blank Fairy Card (secret rare)
 
+// General battle
+battle.first=You will play first.
+battle.second=You will play second.
 battle.selector.newactive=Select a new Active card
+battle.guide.settingup.title=Pre-match
+battle.guide.settingup.1=1. Set active Pokemon
+battle.guide.settingup.2=2. Set bench Pokemon
+battle.guide.settingup.3=3. Press Start game
+battle.guide.settingup.4=4. Wait for your opponent!
 
 // Attack Effects
 attack.effect.changeresistance.selector=Pick new Resistance
@@ -159,6 +167,8 @@ attack.effect.changeweakness.selector=Pick new Weakness
 attack.effect.switch.byopp=Pick new Active Pokémon
 
 // Ability Effects
+ability.pokemonpower=Pokémon Power
+ability.pokemonbody=Pokémon Body
 ability.damageswap.selector.from=Move damage from
 ability.damageswap.selector.to=Move damage to
 ability.buzzap.selector.chooseenergy=Choose Energy type
@@ -167,6 +177,15 @@ ability.raindance.selector.chooseattach=Choose a Pokémon to attach Water Energy
 ability.energytransfer.selector.from=Move Grass Energy from
 ability.energytransfer.selector.to=Move Grass Energy to
 ability.shift.selector.change=Change Type to
+ability.heal.selector.pokemon=Heal 10 damage
+
+// Trainer Effects
+trainer.pokedex.selector.1=Choose 1st (top) card
+trainer.pokedex.selector.2=Choose 2nd card
+trainer.pokedex.selector.3=Choose 3rd card
+trainer.pokedex.selector.4=Choose 4th card
+trainer.pokedex.selector.5=Choose 5th card
+trainer.pokemontrader.selector.reveal=Opponent has traded Pokemon between deck and hand
 
 //Base Set
 set.BS.name=Base Set
@@ -634,8 +653,8 @@ attack.JG5.2.name=Comet Punch
 attack.JG5.2.text=Flip 4 coins. This attack does 20 damage times the number of heads.
 //Mr. Mime
 card.JG6.name=Mr. Mime
-ability.JG6.1.name=Invisible Wall
-ability.JG6.1.text=Prevent Damage caused by an attack that does 30 or more damage to Mr. Mime, any other effects of attacks still happen. Disabled by Sleep, Confused, or Paralyzed.
+ability.JG6.name=Invisible Wall
+ability.JG6.text=Prevent Damage caused by an attack that does 30 or more damage to Mr. Mime, any other effects of attacks still happen. Disabled by Sleep, Confused, or Paralyzed.
 attack.JG6.1.name=Meditate
 attack.JG6.1.text=Does 10 damage plus 10 more damage for each damage counter on the Defending Pokémon.
 //Nidoqueen
@@ -664,8 +683,8 @@ attack.JG10.2.name=Slash
 attack.JG10.2.text=
 //Snorlax
 card.JG11.name=Snorlax
-ability.JG11.1.name=Thick Skinned
-ability.JG11.1.text=Snorlax can't become Asleep, Confused, Paralyzed, or Poisoned. Disabled if Snorlax is already Asleep, Confused, or Paralyzed.
+ability.JG11.name=Thick Skinned
+ability.JG11.text=Snorlax can't become Asleep, Confused, Paralyzed, or Poisoned. Disabled if Snorlax is already Asleep, Confused, or Paralyzed.
 attack.JG11.1.name=Body Slam
 attack.JG11.1.text=Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
 //Vaporeon
@@ -676,8 +695,8 @@ attack.JG12.2.name=Water Gun
 attack.JG12.2.text=Does 30 damage plus 10 more damage for each Water Energy attached which is not used to pay for this attack. Limited to 2 extra Water Energy.
 //Venomoth
 card.JG13.name=Venomoth
-ability.JG13.1.name=Shift
-ability.JG13.1.text=Before your attack you may change the type of Venomoth to the type of any other Pokémon in play other than Colorless. Disabled by Sleep, Confused, or Paralyzed.
+ability.JG13.name=Shift
+ability.JG13.text=Before your attack you may change the type of Venomoth to the type of any other Pokémon in play other than Colorless. Disabled by Sleep, Confused, or Paralyzed.
 attack.JG13.1.name=Venom Powder
 attack.JG13.1.text=Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned.
 //Victreebel
@@ -688,8 +707,8 @@ attack.JG14.2.name=Acid
 attack.JG14.2.text=Flip a coin. If heads, the Defending Pokémon can't retreat during your opponent's next turn.
 //Vileplume
 card.JG15.name=Vileplume
-ability.JG15.1.name=Heal
-ability.JG15.1.text=Once during your turn you may flip a coin. If heads, remove 1 damage counter from 1 of your Pokémon. Disabled by Sleep, Confused, or Paralyzed.
+ability.JG15.name=Heal
+ability.JG15.text=Once during your turn you may flip a coin. If heads, remove 1 damage counter from 1 of your Pokémon. Disabled by Sleep, Confused, or Paralyzed.
 attack.JG15.1.name=Petal Dance
 attack.JG15.1.text=Flip 3 coins. This attack does 40 damage times the number of heads. Vileplume is now Confused (after doing damage).
 //Wigglytuff
@@ -730,8 +749,8 @@ attack.JG21.2.name=Comet Punch
 attack.JG21.2.text=Flip 4 coins. This attack does 20 damage times the number of heads.
 //Mr. Mime
 card.JG22.name=Mr. Mime
-ability.JG22.1.name=Invisible Wall
-ability.JG22.1.text=Prevent Damage caused by an attack that does 30 or more damage to Mr. Mime, any other effects of attacks still happen. Disabled by Sleep, Confused, or Paralyzed.
+ability.JG22.name=Invisible Wall
+ability.JG22.text=Prevent Damage caused by an attack that does 30 or more damage to Mr. Mime, any other effects of attacks still happen. Disabled by Sleep, Confused, or Paralyzed.
 attack.JG22.1.name=Meditate
 attack.JG22.1.text=Does 10 damage plus 10 more damage for each damage counter on the Defending Pokémon.
 //Nidoqueen
@@ -760,8 +779,8 @@ attack.JG26.2.name=Slash
 attack.JG26.2.text=
 //Snorlax
 card.JG27.name=Snorlax
-ability.JG27.1.name=Thick Skinned
-ability.JG27.1.text=Snorlax can't become Asleep, Confused, Paralyzed, or Poisoned. Disabled if Snorlax is already Asleep, Confused, or Paralyzed.
+ability.JG27.name=Thick Skinned
+ability.JG27.text=Snorlax can't become Asleep, Confused, Paralyzed, or Poisoned. Disabled if Snorlax is already Asleep, Confused, or Paralyzed.
 attack.JG27.1.name=Body Slam
 attack.JG27.1.text=Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
 //Vaporeon
@@ -772,8 +791,8 @@ attack.JG28.2.name=Water Gun
 attack.JG28.2.text=Does 30 damage plus 10 more damage for each Water Energy attached which is not used to pay for this attack. Limited to 2 extra Water Energy.
 //Venomoth
 card.JG29.name=Venomoth
-ability.JG29.1.name=Shift
-ability.JG29.1.text=Before your attack you may change the type of Venomoth to the type of any other Pokémon in play other than Colorless. Disabled by Sleep, Confused, or Paralyzed.
+ability.JG29.name=Shift
+ability.JG29.text=Before your attack you may change the type of Venomoth to the type of any other Pokémon in play other than Colorless. Disabled by Sleep, Confused, or Paralyzed.
 attack.JG29.1.name=Venom Powder
 attack.JG29.1.text=Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned.
 //Victreebel
@@ -784,8 +803,8 @@ attack.JG30.2.name=Acid
 attack.JG30.2.text=Flip a coin. If heads, the Defending Pokémon can't retreat during your opponent's next turn.
 //Vileplume
 card.JG31.name=Vileplume
-ability.JG31.1.name=Heal
-ability.JG31.1.text=Once during your turn you may flip a coin. If heads, remove 1 damage counter from 1 of your Pokémon. Disabled by Sleep, Confused, or Paralyzed.
+ability.JG31.name=Heal
+ability.JG31.text=Once during your turn you may flip a coin. If heads, remove 1 damage counter from 1 of your Pokémon. Disabled by Sleep, Confused, or Paralyzed.
 attack.JG31.1.name=Petal Dance
 attack.JG31.1.text=Flip 3 coins. This attack does 40 damage times the number of heads. Vileplume is now Confused (after doing damage).
 //Wigglytuff
@@ -802,8 +821,8 @@ attack.JG33.2.name=Mega Drain
 attack.JG33.2.text=Heal Butterfree equal to half the damage done to the Defending Pokémon.
 //Dodrio
 card.JG34.name=Dodrio
-ability.JG34.1.name=Retreat Aid
-ability.JG34.1.text=As long as Dodrio is Benched, pay one Energy Card less to retreat your Active Pokémon.
+ability.JG34.name=Retreat Aid
+ability.JG34.text=As long as Dodrio is Benched, pay one Energy Card less to retreat your Active Pokémon.
 attack.JG34.1.name=Rage
 attack.JG34.1.text=Does 10 damage plus 10 more damage for each damage counter on Dodrio.
 //Exeggutor
@@ -926,8 +945,8 @@ attack.JG54.2.name=Pound
 attack.JG54.2.text=
 //Mankey
 card.JG55.name=Mankey
-ability.JG55.1.name=Peek
-ability.JG55.1.text=Before your attack you may look at one of the following: the top card of either player's deck, a random card from your opponent's hand, or one of either player's Prizes. Disabled by Sleep, Confused, or Paralyzed.
+ability.JG55.name=Peek
+ability.JG55.text=Before your attack you may look at one of the following: the top card of either player's deck, a random card from your opponent's hand, or one of either player's Prizes. Disabled by Sleep, Confused, or Paralyzed.
 attack.JG55.1.name=Scratch
 attack.JG55.1.text=
 //Meowth
