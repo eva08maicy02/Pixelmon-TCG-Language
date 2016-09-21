@@ -186,6 +186,7 @@ trainer.pokedex.selector.3=Choose 3rd card
 trainer.pokedex.selector.4=Choose 4th card
 trainer.pokedex.selector.5=Choose 5th card
 trainer.pokemontrader.selector.reveal=Opponent has traded Pokemon between deck and hand
+trainer.maintenance.selector.choose=Shuffle 2 cards from hand into deck
 
 //Base Set
 set.BS.name=Base Set
