@@ -8,6 +8,8 @@ item.binder.name=Card Binder
 item.coin_set.name=Coinset
 item.card_back.name=Cardback
 item.deck.name=Deck Holder
+item.deck.unopened=unopened
+item.deck.locked=locked
 item.board.name=Game Board
 item.sound_mod.name=Sound Mod
 
