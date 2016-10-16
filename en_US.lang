@@ -509,6 +509,7 @@ attack.BS61.1.name=Bite
 card.BS62.name=Sandshrew
 attack.BS62.1.name=Sand-Attack
 attack.BS62.1.text=Next turn, your opponents' attacks gain the following text: Flip a coin. If tails, this attack misses.
+attack.sandattack.effect.text=Flip a coin. If tails, this attack misses.
 //Squirtle
 card.BS63.name=Squirtle
 attack.BS63.1.name=Bubble
