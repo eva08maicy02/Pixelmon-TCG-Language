@@ -162,6 +162,8 @@ battle.guide.settingup.1=1. Set active Pokemon
 battle.guide.settingup.2=2. Set bench Pokemon
 battle.guide.settingup.3=3. Press Start game
 battle.guide.settingup.4=4. Wait for your opponent!
+battle.selector.prize=Select a Prize card
+battle.selector.prize.close=Click again to close
 
 // Attack Effects
 attack.effect.changeresistance.selector=Pick new Resistance
