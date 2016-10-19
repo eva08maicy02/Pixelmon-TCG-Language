@@ -1,6 +1,7 @@
 gui.guiPack.title=You opened a pack!
 
 itemGroup.tabTCG1=Pixelmon TCG
+itemGroup.tabTCG2=Pixelmon TCG Crafting Tokens
 
 item.card.name=Pixelmon Card
 item.card_introduction.name=Introduction Card
