@@ -4,7 +4,7 @@ itemGroup.tabTCG1=Pixelmon TCG
 itemGroup.tabTCG2=Pixelmon TCG Crafting Tokens
 
 item.card.name=Pixelmon Card
-item.card_introduction.name=Introduction Card
+item.card_introduction.name=Welcome Card
 item.pack.name=Booster Pack
 item.binder.name=Card Binder
 item.coin_set.name=Coinset
