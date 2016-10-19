@@ -153,6 +153,64 @@ item.card.blank.fairy.holo_rare.name=Blank Fairy Card (holo rare)
 item.card.blank.fairy.ultra_rare.name=Blank Fairy Card (ultra rare)
 item.card.blank.fairy.secretRare.name=Blank Fairy Card (secret rare)
 
+item.blankToken.name=Card Token
+
+item.token.fire.uncommon.name=Fire Token (uncommon)
+item.token.fire.rare.name=Fire Token (rare)
+item.token.fire.holo_rare.name=Fire Token (holo rare)
+item.token.fire.ultra_rare.name=Fire Token (ultra rare)
+
+item.token.water.uncommon.name=Water Token (uncommon)
+item.token.water.rare.name=Water Token (rare)
+item.token.water.holo_rare.name=Water Token (holo rare)
+item.token.water.ultra_rare.name=Water Token (ultra rare)
+
+item.token.grass.uncommon.name=Grass Token (uncommon)
+item.token.grass.rare.name=Grass Token (rare)
+item.token.grass.holo_rare.name=Grass Token (holo rare)
+item.token.grass.ultra_rare.name=Grass Token (ultra rare)
+
+item.token.lightning.uncommon.name=Lightning Token (uncommon)
+item.token.lightning.rare.name=Lightning Token (rare)
+item.token.lightning.holo_rare.name=Lightning Token (holo rare)
+item.token.lightning.ultra_rare.name=Lightning Token (ultra rare)
+
+item.token.psychic.uncommon.name=Psychic Token (uncommon)
+item.token.psychic.rare.name=Psychic Token (rare)
+item.token.psychic.holo_rare.name=Psychic Token (holo rare)
+item.token.psychic.ultra_rare.name=Psychic Token (ultra rare)
+
+item.token.fighting.uncommon.name=Fighting Token (uncommon)
+item.token.fighting.rare.name=Fighting Token (rare)
+item.token.fighting.holo_rare.name=Fighting Token (holo rare)
+item.token.fighting.ultra_rare.name=Fighting Token (ultra rare)
+
+item.token.colorless.uncommon.name=Colorless Token (uncommon)
+item.token.colorless.rare.name=Colorless Token (rare)
+item.token.colorless.holo_rare.name=Colorless Token (holo rare)
+item.token.colorless.ultra_rare.name=Colorless Token (ultra rare)
+
+item.token.metal.uncommon.name=Metal Token (uncommon)
+item.token.metal.rare.name=Metal Token (rare)
+item.token.metal.holo_rare.name=Metal Token (holo rare)
+item.token.metal.ultra_rare.name=Metal Token (ultra rare)
+
+item.token.darkness.uncommon.name=Darkness Token (uncommon)
+item.token.darkness.rare.name=Darkness Token (rare)
+item.token.darkness.holo_rare.name=Darkness Token (holo rare)
+item.token.darkness.ultra_rare.name=Darkness Token (ultra rare)
+
+item.token.dragon.uncommon.name=Dragon Token (uncommon)
+item.token.dragon.rare.name=Dragon Token (rare)
+item.token.dragon.holo_rare.name=Dragon Token (holo rare)
+item.token.dragon.ultra_rare.name=Dragon Token (ultra rare)
+
+item.token.fairy.uncommon.name=Fairy Token (uncommon)
+item.token.fairy.rare.name=Fairy Token (rare)
+item.token.fairy.holo_rare.name=Fairy Token (holo rare)
+item.token.fairy.ultra_rare.name=Fairy Token (ultra rare)
+
+
 // General battle
 battle.first=You will play first.
 battle.second=You will play second.
