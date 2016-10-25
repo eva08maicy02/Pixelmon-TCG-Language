@@ -27,6 +27,7 @@ battleRule.prizeCount=Prize count
 battleRule.setStartingCommands=Set commands when battle started
 battleRule.setEndingCommands=Set commands when battle ended
 battleRule.emptyCommands=No commands set
+battleRule.endBattle=End Battle
 
 achievement.welcome=Welcome!
 achievement.welcome.desc=Welcome to Pixelmon TCG!
