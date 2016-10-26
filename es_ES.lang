@@ -1,81 +1,89 @@
 gui.guiPack.title=¡Has abierto un pack!
 
 itemGroup.tabTCG1=Pixelmon JCC
+itemGroup.tabTCG2=Pixelmon Tokens JCC
 
 item.card.name=Carta Pixelmon
+item.card_introduction.name=Carta de Bienvenida
 item.pack.name=Pack de Mejora
 item.binder.name=Álbum de Cartas
 item.coin_set.name=Monedas
 item.card_back.name=Reverso
 item.deck.name=Baraja de Cartas
+item.deck.unopened=Sin abrir
+item.deck.locked=Cerrado
 item.board.name=Tablero de Juego
 item.sound_mod.name=Sound Mod
 
 item.card_printer.name=Impresor de Cartas
-item.battle_controller.name=PixelmonTCG BattleBox 4000
-item.rulebook.name=JCC Libro de Normas
-item.battle_rule.name=JCC Normas de Batalla
+item.battle_controller.name=PixelmonJCC Caja de Combate 4000
+item.rulebook.name=Libro de Reglas JCC
+item.battle_rule.name=Reglas de Batalla JCC
 
 battleRule.instruction=¡Clic derecho en una Caja de Combate para cambiar las reglas del combate!
 battleRule.setRule=Establece las reglas de la Caja de Combate
 battleRule.deckSize=Tamaño de la Baraja
 battleRule.prizeCount=Recuento de Premio
-battleRule.setStartingCommands=Comandos cuando comienza el combate
+battleRule.setStartingCommands=Comandos cuando empieza el combate
 battleRule.setEndingCommands=Comandos cuando acaba el combate
 battleRule.emptyCommands=Sin comandos
+battleRule.endBattle=Terminar Combate
 
-achievement.openPack=Pack de Inicio JCC
+achievement.welcome=¡Bienvenido!
+achievement.welcome.desc=¡Bienvenido a Pixelmon JCC!
+
+achievement.openPack=JCC: Pack de Inicio
 achievement.openPack.desc=Abre tu primer pack de mejora JCC
-achievement.binderGet=Coleccionista Principiante de JCC
+achievement.binderGet=JCC: Coleccionista Principiante
 achievement.binderGet.desc=Consigue un Álbum de Cartas
-achievement.binderQuarter=Coleccionista Novato de JCC
+achievement.binderQuarter=JCC: Coleccionista Novato
 achievement.binderQuarter.desc=Completa un cuarto de un Álbum de Cartas
-achievement.binderHalf=Coleccionista Amateur de JCC
+achievement.binderHalf=JCC: Coleccionista Amateur
 achievement.binderHalf.desc=Completa la mitad de un Álbum de Cartas
-achievement.binderFull=Coleccionista Profesional de JCC
+achievement.binderFull=JCC: Coleccionista Profesional
 achievement.binderFull.desc=Completa un Álbum de Cartas
-achievement.binderFullRare=Coleccionista Dedicado de JCC
+achievement.binderFullRare=JCC: Coleccionista Dedicado
 achievement.binderFullRare.desc=Completa un Álbum de Cartas con raras o superiores
-achievement.binderFullSecretRare=Coleccionista Sublime de JCC
+achievement.binderFullSecretRare=JCC: Coleccionista Sublime
 achievement.binderFullSecretRare.desc=Completa un Álbum de Cartas con Raras Secretas
 
-achievement.obtainDeck=Constructor de barajas JCC
-achievement.obtainDeck.desc=Adquiere una ranura vacía en una baraja
-achievement.finishDeck=Listo para la Batalla JCC
-achievement.finishDeck.desc=Nombra y termina una baraja
+achievement.obtainDeck=JCC: Constructor de barajas
+achievement.obtainDeck.desc=Adquiere una ranura vacía de una baraja
+achievement.finishDeck=JCC: Listo para la Batalla
+achievement.finishDeck.desc=Nombra y finaliza una baraja
 
-achievement.trade1=TCG Card Swapper
-achievement.trade1.desc=Perform 1 card trade
-achievement.trade5=TCG Card Trader
-achievement.trade5.desc=Perform 5 card trades
-achievement.trade20=TCG Card Dealer
-achievement.trade20.desc=Perform 20 card trades
-achievement.trade50=TCG Card Broker
-achievement.trade50.desc=Perform 50 card trades
-achievement.trade250=TCG Card Kingpin
-achievement.trade250.desc=Perform 250 card trades
+achievement.trade1=JCC: Intercambio de Cartas
+achievement.trade1.desc=Intercambia 1 carta
+achievement.trade5=JCC: Vendedor de Cartas
+achievement.trade5.desc=Intercambia 5 cartas
+achievement.trade20=JCC: Comerciante de Cartas
+achievement.trade20.desc=Intercambia 20 cartas
+achievement.trade50=JCC: Emisario de Cartas
+achievement.trade50.desc=Intercambia 50 cartas
+achievement.trade250=JCC: Administrador de Cartas
+achievement.trade250.desc=Intercambia 250 cartas
 
-achievement.obtainCardBack=TCG Artist
-achievement.obtainCardBack.desc=Acquire a custom card back
-achievement.obtainCoinset=TCG Treasurer
-achievement.obtainCoinset.desc=Acquire a custom coinset
-achievement.obtainBoard=TCG Worldflipper
-achievement.obtainBoard.desc=Acquire a custom board
-achievement.obtainRulebook=TCG Rulemaster
-achievement.obtainRulebook.desc=Acquire a custom rulebook
+achievement.obtainCardBack=JCC: Artista
+achievement.obtainCardBack.desc=Consigue un reverso personalizado
+achievement.obtainCoinset=JCC: Tesorero
+achievement.obtainCoinset.desc=Consigue una moneda personalizada
+achievement.obtainBoard=JCC: Trotamundos
+achievement.obtainBoard.desc=Consigue un tablero personalizado
+achievement.obtainRulebook=JCC: Rey de las Normas
+achievement.obtainRulebook.desc=Adquiere un libro de Reglas personalizado
 
-achievement.obtainCommon=Obtain TCG Common
-achievement.obtainCommon.desc=Acquire a common card
-achievement.obtainUncommon=Obtain TCG Uncommon
-achievement.obtainUncommon.desc=Acquire an uncommon card
-achievement.obtainRare=Obtain TCG Rare
-achievement.obtainRare.desc=Acquire a rare card
-achievement.obtainSuperRare=Obtain TCG Super Rare
-achievement.obtainSuperRare.desc=Acquire a super rare card
-achievement.obtainUltraRare=Obtain TCG Ultra Rare
-achievement.obtainUltraRare.desc=Acquire an ultra rare card
-achievement.obtainSecretRare=Obtain TCG Secret Rare
-achievement.obtainSecretRare.desc=Acquire a secret rare card
+achievement.obtainCommon=JCC: Común
+achievement.obtainCommon.desc=Consigue una carta común
+achievement.obtainUncommon=JCC: Singular
+achievement.obtainUncommon.desc=Consigue una carta singular
+achievement.obtainRare=JCC: Raro
+achievement.obtainRare.desc=Consigue una carta rara
+achievement.obtainSuperRare=JCC: Super Raro
+achievement.obtainSuperRare.desc=Consigue una carta super rara
+achievement.obtainUltraRare=JCC: Ultra Raro
+achievement.obtainUltraRare.desc=Consigue una carta ultra rara
+achievement.obtainSecretRare=JCC: Rara Secreta
+achievement.obtainSecretRare.desc=Consigue una carta rara secreta
 
 achievement.obtainSeal=Orichalcos Unbound
 achievement.obtainSeal.desc=Acquire a 'Seal of Orichalcos' card
@@ -85,71 +93,129 @@ achievement.useShard=Seal Shatter
 achievement.useShard.desc=Break an active 'Seal of Orichalcos' with a 'Shard of Orichalcum'
 
 item.card.blank.grass.common.name=Carta Planta Vacía (común)
-item.card.blank.grass.uncommon.name=Carta Planta Vacía (poco común)
-item.card.blank.grass.rare.name=Carta Planta Vacía (rara)
-item.card.blank.grass.holo_rare.name=Carta Planta Vacía (holo rara)
-item.card.blank.grass.ultra_rare.name=Carta Planta Vacía (ultra rara)
-item.card.blank.grass.secretRare.name=Carta Planta Vacía (secreta rara)
+item.card.blank.grass.uncommon.name=§2§2Carta Planta Vacía (singular)
+item.card.blank.grass.rare.name=§9Carta Planta Vacía (rara)
+item.card.blank.grass.holo_rare.name=§5Carta Planta Vacía (holo rara)
+item.card.blank.grass.ultra_rare.name=§6Carta Planta Vacía (ultra rara)
+item.card.blank.grass.secretRare.name=§bCarta Planta Vacía (secreta rara)
 item.card.blank.fire.common.name=Carta Fuego Vacía (común)
-item.card.blank.fire.uncommon.name=Carta Fuego Vacía (poco común)
-item.card.blank.fire.rare.name=Carta Fuego Vacía (rara)
-item.card.blank.fire.holo_rare.name=Carta Fuego Vacía (holo rara)
-item.card.blank.fire.ultra_rare.name=Carta Fuego Vacía (ultra rara)
-item.card.blank.fire.secretRare.name=Carta Fuego Vacía (secreta rara)
+item.card.blank.fire.uncommon.name=§2§2Carta Fuego Vacía (singular)
+item.card.blank.fire.rare.name=§9Carta Fuego Vacía (rara)
+item.card.blank.fire.holo_rare.name=§5Carta Fuego Vacía (holo rara)
+item.card.blank.fire.ultra_rare.name=§6Carta Fuego Vacía (ultra rara)
+item.card.blank.fire.secretRare.name=§bCarta Fuego Vacía (secreta rara)
 item.card.blank.water.common.name=Carta Agua Vacía (común)
-item.card.blank.water.uncommon.name=Carta Agua Vacía (poco común)
-item.card.blank.water.rare.name=Carta Agua Vacía (rara)
-item.card.blank.water.holo_rare.name=Carta Agua Vacía (holo rara)
-item.card.blank.water.ultra_rare.name=Carta Agua Vacía (ultra rara)
-item.card.blank.water.secretRare.name=Carta Agua Vacía (secreta rara)
+item.card.blank.water.uncommon.name=§2§2Carta Agua Vacía (singular)
+item.card.blank.water.rare.name=§9Carta Agua Vacía (rara)
+item.card.blank.water.holo_rare.name=§5Carta Agua Vacía (holo rara)
+item.card.blank.water.ultra_rare.name=§6Carta Agua Vacía (ultra rara)
+item.card.blank.water.secretRare.name=§bCarta Agua Vacía (secreta rara)
 item.card.blank.lightning.common.name=Carta Relámpago Vacía (común)
-item.card.blank.lightning.uncommon.name=Carta Relámpago Vacía (poco común)
-item.card.blank.lightning.rare.name=Carta Relámpago Vacía (rara)
-item.card.blank.lightning.holo_rare.name=Carta Relámpago Vacía (holo rara)
-item.card.blank.lightning.ultra_rare.name=Carta Relámpago Vacía (ultra rara)
-item.card.blank.lightning.secretRare.name=Carta Relámpago Vacía (secreta rara)
+item.card.blank.lightning.uncommon.name=§2§2Carta Relámpago Vacía (singular)
+item.card.blank.lightning.rare.name=§9Carta Relámpago Vacía (rara)
+item.card.blank.lightning.holo_rare.name=§5Carta Relámpago Vacía (holo rara)
+item.card.blank.lightning.ultra_rare.name=§6Carta Relámpago Vacía (ultra rara)
+item.card.blank.lightning.secretRare.name=§bCarta Relámpago Vacía (secreta rara)
 item.card.blank.fighting.common.name=Carta Lucha Vacía (común)
-item.card.blank.fighting.uncommon.name=Carta Lucha Vacía (poco común)
-item.card.blank.fighting.rare.name=Carta Lucha Vacía (rara)
-item.card.blank.fighting.holo_rare.name=Carta Lucha Vacía (holo rara)
-item.card.blank.fighting.ultra_rare.name=Carta Lucha Vacía (ultra rara)
-item.card.blank.fighting.secretRare.name=Carta Lucha Vacía (secreta rara)
+item.card.blank.fighting.uncommon.name=§2§2Carta Lucha Vacía (singular)
+item.card.blank.fighting.rare.name=§9Carta Lucha Vacía (rara)
+item.card.blank.fighting.holo_rare.name=§5Carta Lucha Vacía (holo rara)
+item.card.blank.fighting.ultra_rare.name=§6Carta Lucha Vacía (ultra rara)
+item.card.blank.fighting.secretRare.name=§bCarta Lucha Vacía (secreta rara)
 item.card.blank.psychic.common.name=Carta Psíquica Vacía (común)
-item.card.blank.psychic.uncommon.name=Carta Psíquica Vacía (poco común)
-item.card.blank.psychic.rare.name=Carta Psíquica Vacía (rara)
-item.card.blank.psychic.holo_rare.name=Carta Psíquica Vacía (holo rara)
-item.card.blank.psychic.ultra_rare.name=Carta Psíquica Vacía (ultra rara)
-item.card.blank.psychic.secretRare.name=Carta Psíquica Vacía (secreta rara)
+item.card.blank.psychic.uncommon.name=§2§2Carta Psíquica Vacía (singular)
+item.card.blank.psychic.rare.name=§9Carta Psíquica Vacía (rara)
+item.card.blank.psychic.holo_rare.name=§5Carta Psíquica Vacía (holo rara)
+item.card.blank.psychic.ultra_rare.name=§6Carta Psíquica Vacía (ultra rara)
+item.card.blank.psychic.secretRare.name=§bCarta Psíquica Vacía (secreta rara)
 item.card.blank.colorless.common.name=Carta Descolorida Vacía (común)
-item.card.blank.colorless.uncommon.name=Carta Descolorida Vacía (poco común)
-item.card.blank.colorless.rare.name=Carta Descolorida Vacía (rara)
-item.card.blank.colorless.holo_rare.name=Carta Descolorida Vacía (holo rara)
-item.card.blank.colorless.ultra_rare.name=Carta Descolorida Vacía (ultra rara)
-item.card.blank.colorless.secretRare.name=Carta Descolorida Vacía (secreta rara)
+item.card.blank.colorless.uncommon.name=§2§2Carta Descolorida Vacía (singular)
+item.card.blank.colorless.rare.name=§9Carta Descolorida Vacía (rara)
+item.card.blank.colorless.holo_rare.name=§5Carta Descolorida Vacía (holo rara)
+item.card.blank.colorless.ultra_rare.name=§6Carta Descolorida Vacía (ultra rara)
+item.card.blank.colorless.secretRare.name=§bCarta Descolorida Vacía (secreta rara)
 item.card.blank.darkness.common.name=Carta Oscuridad Vacía (común)
-item.card.blank.darkness.uncommon.name=Carta Oscuridad Vacía (poco común)
-item.card.blank.darkness.rare.name=Carta Oscuridad Vacía (rara)
-item.card.blank.darkness.holo_rare.name=Carta Oscuridad Vacía (holo rara)
-item.card.blank.darkness.ultra_rare.name=Carta Oscuridad Vacía (ultra rara)
-item.card.blank.darkness.secretRare.name=Carta Oscuridad Vacía (secreta rara)
+item.card.blank.darkness.uncommon.name=§2§2Carta Oscuridad Vacía (singular)
+item.card.blank.darkness.rare.name=§9Carta Oscuridad Vacía (rara)
+item.card.blank.darkness.holo_rare.name=§5Carta Oscuridad Vacía (holo rara)
+item.card.blank.darkness.ultra_rare.name=§6Carta Oscuridad Vacía (ultra rara)
+item.card.blank.darkness.secretRare.name=§bCarta Oscuridad Vacía (secreta rara)
 item.card.blank.metal.common.name=Carta Acero Vacía (común)
-item.card.blank.metal.uncommon.name=Carta Acero Vacía (poco común)
-item.card.blank.metal.rare.name=Carta Acero Vacía (rara)
-item.card.blank.metal.holo_rare.name=Carta Acero Vacía (holo rara)
-item.card.blank.metal.ultra_rare.name=Carta Acero Vacía (ultra rara)
-item.card.blank.metal.secretRare.name=Carta Acero Vacía (secreta rara)
+item.card.blank.metal.uncommon.name=§2§2Carta Acero Vacía (singular)
+item.card.blank.metal.rare.name=§9Carta Acero Vacía (rara)
+item.card.blank.metal.holo_rare.name=§5Carta Acero Vacía (holo rara)
+item.card.blank.metal.ultra_rare.name=§6Carta Acero Vacía (ultra rara)
+item.card.blank.metal.secretRare.name=§bCarta Acero Vacía (secreta rara)
 item.card.blank.dragon.common.name=Carta Dragón Vacía (común)
-item.card.blank.dragon.uncommon.name=Carta Dragón Vacía (poco común)
-item.card.blank.dragon.rare.name=Carta Dragón Vacía (rara)
-item.card.blank.dragon.holo_rare.name=Carta Dragón Vacía (holo rara)
-item.card.blank.dragon.ultra_rare.name=Carta Dragón Vacía (ultra rara)
-item.card.blank.dragon.secretRare.name=Carta Dragón Vacía (secreta rara)
+item.card.blank.dragon.uncommon.name=§2§2Carta Dragón Vacía (singular)
+item.card.blank.dragon.rare.name=§9Carta Dragón Vacía (rara)
+item.card.blank.dragon.holo_rare.name=§5Carta Dragón Vacía (holo rara)
+item.card.blank.dragon.ultra_rare.name=§6Carta Dragón Vacía (ultra rara)
+item.card.blank.dragon.secretRare.name=§bCarta Dragón Vacía (secreta rara)
 item.card.blank.fairy.common.name=Carta Hada Vacía (común)
-item.card.blank.fairy.uncommon.name=Carta Hada Vacía (poco común)
-item.card.blank.fairy.rare.name=Carta Hada Vacía (rara)
-item.card.blank.fairy.holo_rare.name=Carta Hada Vacía (holo rara)
-item.card.blank.fairy.ultra_rare.name=Carta Hada Vacía (ultra rara)
-item.card.blank.fairy.secretRare.name=Carta Hada Vacía (secreta rara)
+item.card.blank.fairy.uncommon.name=§2§2Carta Hada Vacía (singular)
+item.card.blank.fairy.rare.name=§9Carta Hada Vacía (rara)
+item.card.blank.fairy.holo_rare.name=§5Carta Hada Vacía (holo rara)
+item.card.blank.fairy.ultra_rare.name=§6Carta Hada Vacía (ultra rara)
+item.card.blank.fairy.secretRare.name=§bCarta Hada Vacía (secreta rara)
+
+item.blankToken.name=Carta Token
+
+item.token.fire.uncommon.name=§2Token de Fuego (común)
+item.token.fire.rare.name=§9Token de Fuego (raro)
+item.token.fire.holo_rare.name=§5Token de Fuego (holo raro)
+item.token.fire.ultra_rare.name=§6Token de Fuego (ultra raro)
+
+item.token.water.uncommon.name=§2Token de Agua (común)
+item.token.water.rare.name=§9Token de Agua (raro)
+item.token.water.holo_rare.name=§5Token de Agua (holo raro)
+item.token.water.ultra_rare.name=§6Token de Agua (ultra raro)
+
+item.token.grass.uncommon.name=§2Token de Planta (común)
+item.token.grass.rare.name=§9Token de Planta (raro)
+item.token.grass.holo_rare.name=§5Token de Planta (holo raro)
+item.token.grass.ultra_rare.name=§6Token de Planta (ultra raro)
+
+item.token.lightning.uncommon.name=§2Token Relámpago (común)
+item.token.lightning.rare.name=§9Token Relámpago (raro)
+item.token.lightning.holo_rare.name=§5Token Relámpago (holo raro)
+item.token.lightning.ultra_rare.name=§6Token Relámpago (ultra raro)
+
+item.token.psychic.uncommon.name=§2Token de Psíquico (común)
+item.token.psychic.rare.name=§9Token de Psíquico (raro)
+item.token.psychic.holo_rare.name=§5Token de Psíquico (holo raro)
+item.token.psychic.ultra_rare.name=§6Token de Psíquico (ultra raro)
+
+item.token.fighting.uncommon.name=§2Token de Lucha (común)
+item.token.fighting.rare.name=§9Token de Lucha (raro)
+item.token.fighting.holo_rare.name=§5Token de Lucha (holo raro)
+item.token.fighting.ultra_rare.name=§6Token de Lucha (ultra raro)
+
+item.token.colorless.uncommon.name=§2Token Descolorido (común)
+item.token.colorless.rare.name=§9Token Descolorido (raro)
+item.token.colorless.holo_rare.name=§5Token Descolorido (holo raro)
+item.token.colorless.ultra_rare.name=§6Token Descolorido (ultra raro)
+
+item.token.metal.uncommon.name=§2Token de Acero (común)
+item.token.metal.rare.name=§9Token de Acero (raro)
+item.token.metal.holo_rare.name=§5Token de Acero (holo raro)
+item.token.metal.ultra_rare.name=§6Token de Acero (ultra raro)
+
+item.token.darkness.uncommon.name=§2Token de Oscuridad (común)
+item.token.darkness.rare.name=§9Token de Oscuridad (raro)
+item.token.darkness.holo_rare.name=§5Token de Oscuridad (holo raro)
+item.token.darkness.ultra_rare.name=§6Token de Oscuridad (ultra raro)
+
+item.token.dragon.uncommon.name=§2Token de Dragón (común)
+item.token.dragon.rare.name=§9Token de Dragón (raro)
+item.token.dragon.holo_rare.name=§5Token de Dragón (holo raro)
+item.token.dragon.ultra_rare.name=§6Token de Dragón (ultra raro)
+
+item.token.fairy.uncommon.name=§2Token de Hada (común)
+item.token.fairy.rare.name=§9Token de Hada (raro)
+item.token.fairy.holo_rare.name=§5Token de Hada (holo raro)
+item.token.fairy.ultra_rare.name=§6Token de Hada (ultra raro)
+
 
 // General battle
 battle.first=Tú jugarás primero.
@@ -160,6 +226,8 @@ battle.guide.settingup.1=1. Elige un Pokémon disponible
 battle.guide.settingup.2=2. Coloca el Pokemon en el tablero
 battle.guide.settingup.3=3. Presiona en Comenzar partida
 battle.guide.settingup.4=4. ¡Espera a tu oponente!
+battle.selector.prize=Elige una carta de premio
+battle.selector.prize.close=Clic de nuevo para cerrar
 
 // Attack Effects
 attack.effect.changeresistance.selector=Escoge nueva Resistencia
@@ -186,6 +254,7 @@ trainer.pokedex.selector.3=Escoge 3a carta
 trainer.pokedex.selector.4=Escoge 4a carta
 trainer.pokedex.selector.5=Escoge 5a carta
 trainer.pokemontrader.selector.reveal=El oponente ha intercambiado un Pokémon entre la baraja y la mano
+trainer.maintenance.selector.choose=Baraja 2 cartas de tu mano a tu mazo
 
 //Base Set
 set.BS.name=Set Básico
@@ -505,7 +574,8 @@ attack.BS61.1.name=Mordisco
 //Sandshrew
 card.BS62.name=Sandshrew
 attack.BS62.1.name=Ataque Arena
-attack.BS62.1.text=Si el Pokémon a la defensa intenta atacar durante el próximo turno, tu rival echa una moneda a cara o cruz. Si sale cruz, ese ataque no hace nada.
+attack.BS62.1.text=Durante el próximo turno, el ataque de tu rival obtendrá el siguiente texto: Si sale cruz, este ataque no hace nada.
+attack.sandattack.effect.text=Lanza una moneda. Si sale cruz, este ataque no hace nada.
 //Squirtle
 card.BS63.name=Squirtle
 attack.BS63.1.name=Burbuja
@@ -1001,4 +1071,3 @@ card.JG64.text=Flip a coin. If heads, you may search your deck for any Basic Pok
 //Jungle Set - Decks
 deck.waterBlast.name=Water Blast
 deck.powerReserve.name=Power Reserve
-
