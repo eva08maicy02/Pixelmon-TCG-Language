@@ -19,6 +19,7 @@ item.card_printer.name=Card Printer
 item.battle_controller.name=PixelmonTCG BattleBox 4000
 item.rulebook.name=TCG Rulebook
 item.battle_rule.name=TCG Battle Rule
+item.battle_spectator.name=Battle TV
 
 battleRule.instruction=Right click a BattleBox to change the battle rule of the box!
 battleRule.setRule=Set rules for the BattleBox
@@ -28,6 +29,11 @@ battleRule.setStartingCommands=Set commands when battle started
 battleRule.setEndingCommands=Set commands when battle ended
 battleRule.emptyCommands=No commands set
 battleRule.endBattle=End Battle
+
+battleSpectator.title=Battle Spectator
+battleSpectator.controllerLocation=BattleBox Location
+battleSpectator.playerIndex=Player Index
+battleSpectator.foundController=Found BattleBox
 
 achievement.welcome=Welcome!
 achievement.welcome.desc=Welcome to Pixelmon TCG!
