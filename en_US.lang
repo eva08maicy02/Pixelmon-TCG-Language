@@ -7,7 +7,7 @@ item.card.name=Pixelmon Card
 item.card_introduction.name=Welcome Card
 item.pack.name=Booster Pack
 item.binder.name=Card Binder
-item.coin_set.name=Coinset
+item.coin.name=Coin
 item.card_back.name=Cardback
 item.deck.name=Deck Holder
 item.deck.unopened=unopened
@@ -1077,3 +1077,10 @@ card.JG64.text=Flip a coin. If heads, you may search your deck for any Basic Pok
 //Jungle Set - Decks
 deck.waterBlast.name=Water Blast
 deck.powerReserve.name=Power Reserve
+
+//Prerelease cards
+card.PR1.name=Rayquaza
+attack.PR1.1.name=Celestial Roar
+attack.PR1.1.text=Discard the top 3 cards of your deck. Attach any Energy you discard to this Pokémon.
+attack.PR1.2.name=Dragon Burst
+attack.PR1.2.text=Discard all basic Fire and Lightning Energy attached to this Pokémon. This attack does 60 times the number of Energy you discarded.
