@@ -7,7 +7,7 @@ item.card.name=Carta Pixelmon
 item.card_introduction.name=Carta de Bienvenida
 item.pack.name=Pack de Mejora
 item.binder.name=Álbum de Cartas
-item.coin_set.name=Monedas
+item.coin_set.name=Moneda
 item.card_back.name=Reverso
 item.deck.name=Baraja de Cartas
 item.deck.unopened=Sin abrir
@@ -19,6 +19,7 @@ item.card_printer.name=Impresor de Cartas
 item.battle_controller.name=PixelmonJCC Caja de Combate 4000
 item.rulebook.name=Libro de Reglas JCC
 item.battle_rule.name=Reglas de Batalla JCC
+item.battle_spectator.name=TV de Batalla
 
 battleRule.instruction=¡Clic derecho en una Caja de Combate para cambiar las reglas del combate!
 battleRule.setRule=Establece las reglas de la Caja de Combate
@@ -27,7 +28,12 @@ battleRule.prizeCount=Recuento de Premio
 battleRule.setStartingCommands=Comandos cuando empieza el combate
 battleRule.setEndingCommands=Comandos cuando acaba el combate
 battleRule.emptyCommands=Sin comandos
-battleRule.endBattle=Terminar Combate
+battleRule.endBattle=Acabar Combate
+
+battleSpectator.title=Espectador de Batalla
+battleSpectator.controllerLocation=Ubicación Caja de Combate
+battleSpectator.playerIndex=Indice de Jugador
+battleSpectator.foundController=Caja de Combate encontrada
 
 achievement.welcome=¡Bienvenido!
 achievement.welcome.desc=¡Bienvenido a Pixelmon JCC!
@@ -74,89 +80,89 @@ achievement.obtainRulebook.desc=Adquiere un libro de Reglas personalizado
 
 achievement.obtainCommon=JCC: Común
 achievement.obtainCommon.desc=Consigue una carta común
-achievement.obtainUncommon=JCC: Singular
-achievement.obtainUncommon.desc=Consigue una carta singular
+achievement.obtainUncommon=JCC: Infrecuente
+achievement.obtainUncommon.desc=Consigue una carta infrecuente
 achievement.obtainRare=JCC: Raro
 achievement.obtainRare.desc=Consigue una carta rara
 achievement.obtainSuperRare=JCC: Super Raro
 achievement.obtainSuperRare.desc=Consigue una carta super rara
 achievement.obtainUltraRare=JCC: Ultra Raro
-achievement.obtainUltraRare.desc=Consigue una carta ultra rara
+achievement.obtainUltraRare.desc=Consigue una carta rara ultra
 achievement.obtainSecretRare=JCC: Rara Secreta
 achievement.obtainSecretRare.desc=Consigue una carta rara secreta
 
-achievement.obtainSeal=Orichalcos Unbound
-achievement.obtainSeal.desc=Acquire a 'Seal of Orichalcos' card
-achievement.obtainShard=Orichalcos Bound
-achievement.obtainShard.desc=Acquire a 'Shard of Orichalcum' item
-achievement.useShard=Seal Shatter
-achievement.useShard.desc=Break an active 'Seal of Orichalcos' with a 'Shard of Orichalcum'
+achievement.obtainSeal=Desate de los Orichalcos
+achievement.obtainSeal.desc=Consigue la carta 'Sello de los Orichalcos'
+achievement.obtainShard=El destino de los Orichalcos
+achievement.obtainShard.desc=Consigue el objeto 'Resto de Oricalco'
+achievement.useShard=Fragmento de Sello
+achievement.useShard.desc=Abre un 'Sello de los Orichalcos' con un 'Resto de Orichalcum'
 
 item.card.blank.grass.common.name=Carta Planta Vacía (común)
-item.card.blank.grass.uncommon.name=§2§2Carta Planta Vacía (singular)
+item.card.blank.grass.uncommon.name=§2§2Carta Planta Vacía (infrecuente)
 item.card.blank.grass.rare.name=§9Carta Planta Vacía (rara)
-item.card.blank.grass.holo_rare.name=§5Carta Planta Vacía (holo rara)
-item.card.blank.grass.ultra_rare.name=§6Carta Planta Vacía (ultra rara)
+item.card.blank.grass.holo_rare.name=§5Carta Planta Vacía (rara holo)
+item.card.blank.grass.ultra_rare.name=§6Carta Planta Vacía (rara ultra)
 item.card.blank.grass.secretRare.name=§bCarta Planta Vacía (secreta rara)
 item.card.blank.fire.common.name=Carta Fuego Vacía (común)
-item.card.blank.fire.uncommon.name=§2§2Carta Fuego Vacía (singular)
+item.card.blank.fire.uncommon.name=§2§2Carta Fuego Vacía (infrecuente)
 item.card.blank.fire.rare.name=§9Carta Fuego Vacía (rara)
-item.card.blank.fire.holo_rare.name=§5Carta Fuego Vacía (holo rara)
-item.card.blank.fire.ultra_rare.name=§6Carta Fuego Vacía (ultra rara)
+item.card.blank.fire.holo_rare.name=§5Carta Fuego Vacía (rara holo)
+item.card.blank.fire.ultra_rare.name=§6Carta Fuego Vacía (rara ultra)
 item.card.blank.fire.secretRare.name=§bCarta Fuego Vacía (secreta rara)
 item.card.blank.water.common.name=Carta Agua Vacía (común)
-item.card.blank.water.uncommon.name=§2§2Carta Agua Vacía (singular)
+item.card.blank.water.uncommon.name=§2§2Carta Agua Vacía (infrecuente)
 item.card.blank.water.rare.name=§9Carta Agua Vacía (rara)
-item.card.blank.water.holo_rare.name=§5Carta Agua Vacía (holo rara)
-item.card.blank.water.ultra_rare.name=§6Carta Agua Vacía (ultra rara)
+item.card.blank.water.holo_rare.name=§5Carta Agua Vacía (rara holo)
+item.card.blank.water.ultra_rare.name=§6Carta Agua Vacía (rara ultra)
 item.card.blank.water.secretRare.name=§bCarta Agua Vacía (secreta rara)
 item.card.blank.lightning.common.name=Carta Relámpago Vacía (común)
-item.card.blank.lightning.uncommon.name=§2§2Carta Relámpago Vacía (singular)
+item.card.blank.lightning.uncommon.name=§2§2Carta Relámpago Vacía (infrecuente)
 item.card.blank.lightning.rare.name=§9Carta Relámpago Vacía (rara)
-item.card.blank.lightning.holo_rare.name=§5Carta Relámpago Vacía (holo rara)
-item.card.blank.lightning.ultra_rare.name=§6Carta Relámpago Vacía (ultra rara)
+item.card.blank.lightning.holo_rare.name=§5Carta Relámpago Vacía (rara holo)
+item.card.blank.lightning.ultra_rare.name=§6Carta Relámpago Vacía (rara ultra)
 item.card.blank.lightning.secretRare.name=§bCarta Relámpago Vacía (secreta rara)
 item.card.blank.fighting.common.name=Carta Lucha Vacía (común)
-item.card.blank.fighting.uncommon.name=§2§2Carta Lucha Vacía (singular)
+item.card.blank.fighting.uncommon.name=§2§2Carta Lucha Vacía (infrecuente)
 item.card.blank.fighting.rare.name=§9Carta Lucha Vacía (rara)
-item.card.blank.fighting.holo_rare.name=§5Carta Lucha Vacía (holo rara)
-item.card.blank.fighting.ultra_rare.name=§6Carta Lucha Vacía (ultra rara)
+item.card.blank.fighting.holo_rare.name=§5Carta Lucha Vacía (rara holo)
+item.card.blank.fighting.ultra_rare.name=§6Carta Lucha Vacía (rara ultra)
 item.card.blank.fighting.secretRare.name=§bCarta Lucha Vacía (secreta rara)
 item.card.blank.psychic.common.name=Carta Psíquica Vacía (común)
-item.card.blank.psychic.uncommon.name=§2§2Carta Psíquica Vacía (singular)
+item.card.blank.psychic.uncommon.name=§2§2Carta Psíquica Vacía (infrecuente)
 item.card.blank.psychic.rare.name=§9Carta Psíquica Vacía (rara)
-item.card.blank.psychic.holo_rare.name=§5Carta Psíquica Vacía (holo rara)
-item.card.blank.psychic.ultra_rare.name=§6Carta Psíquica Vacía (ultra rara)
+item.card.blank.psychic.holo_rare.name=§5Carta Psíquica Vacía (rara holo)
+item.card.blank.psychic.ultra_rare.name=§6Carta Psíquica Vacía (rara ultra)
 item.card.blank.psychic.secretRare.name=§bCarta Psíquica Vacía (secreta rara)
-item.card.blank.colorless.common.name=Carta Descolorida Vacía (común)
-item.card.blank.colorless.uncommon.name=§2§2Carta Descolorida Vacía (singular)
-item.card.blank.colorless.rare.name=§9Carta Descolorida Vacía (rara)
-item.card.blank.colorless.holo_rare.name=§5Carta Descolorida Vacía (holo rara)
-item.card.blank.colorless.ultra_rare.name=§6Carta Descolorida Vacía (ultra rara)
-item.card.blank.colorless.secretRare.name=§bCarta Descolorida Vacía (secreta rara)
+item.card.blank.colorless.common.name=Carta Incolora Vacía (común)
+item.card.blank.colorless.uncommon.name=§2§2Carta Incolora Vacía (infrecuente)
+item.card.blank.colorless.rare.name=§9Carta Incolora Vacía (rara)
+item.card.blank.colorless.holo_rare.name=§5Carta Incolora Vacía (rara holo)
+item.card.blank.colorless.ultra_rare.name=§6Carta Incolora Vacía (rara ultra)
+item.card.blank.colorless.secretRare.name=§bCarta Incolora Vacía (secreta rara)
 item.card.blank.darkness.common.name=Carta Oscuridad Vacía (común)
-item.card.blank.darkness.uncommon.name=§2§2Carta Oscuridad Vacía (singular)
+item.card.blank.darkness.uncommon.name=§2§2Carta Oscuridad Vacía (infrecuente)
 item.card.blank.darkness.rare.name=§9Carta Oscuridad Vacía (rara)
-item.card.blank.darkness.holo_rare.name=§5Carta Oscuridad Vacía (holo rara)
-item.card.blank.darkness.ultra_rare.name=§6Carta Oscuridad Vacía (ultra rara)
+item.card.blank.darkness.holo_rare.name=§5Carta Oscuridad Vacía (rara holo)
+item.card.blank.darkness.ultra_rare.name=§6Carta Oscuridad Vacía (rara ultra)
 item.card.blank.darkness.secretRare.name=§bCarta Oscuridad Vacía (secreta rara)
 item.card.blank.metal.common.name=Carta Acero Vacía (común)
-item.card.blank.metal.uncommon.name=§2§2Carta Acero Vacía (singular)
+item.card.blank.metal.uncommon.name=§2§2Carta Acero Vacía (infrecuente)
 item.card.blank.metal.rare.name=§9Carta Acero Vacía (rara)
-item.card.blank.metal.holo_rare.name=§5Carta Acero Vacía (holo rara)
-item.card.blank.metal.ultra_rare.name=§6Carta Acero Vacía (ultra rara)
+item.card.blank.metal.holo_rare.name=§5Carta Acero Vacía (rara holo)
+item.card.blank.metal.ultra_rare.name=§6Carta Acero Vacía (rara ultra)
 item.card.blank.metal.secretRare.name=§bCarta Acero Vacía (secreta rara)
 item.card.blank.dragon.common.name=Carta Dragón Vacía (común)
-item.card.blank.dragon.uncommon.name=§2§2Carta Dragón Vacía (singular)
+item.card.blank.dragon.uncommon.name=§2§2Carta Dragón Vacía (infrecuente)
 item.card.blank.dragon.rare.name=§9Carta Dragón Vacía (rara)
-item.card.blank.dragon.holo_rare.name=§5Carta Dragón Vacía (holo rara)
-item.card.blank.dragon.ultra_rare.name=§6Carta Dragón Vacía (ultra rara)
+item.card.blank.dragon.holo_rare.name=§5Carta Dragón Vacía (rara holo)
+item.card.blank.dragon.ultra_rare.name=§6Carta Dragón Vacía (rara ultra)
 item.card.blank.dragon.secretRare.name=§bCarta Dragón Vacía (secreta rara)
 item.card.blank.fairy.common.name=Carta Hada Vacía (común)
-item.card.blank.fairy.uncommon.name=§2§2Carta Hada Vacía (singular)
+item.card.blank.fairy.uncommon.name=§2§2Carta Hada Vacía (infrecuente)
 item.card.blank.fairy.rare.name=§9Carta Hada Vacía (rara)
-item.card.blank.fairy.holo_rare.name=§5Carta Hada Vacía (holo rara)
-item.card.blank.fairy.ultra_rare.name=§6Carta Hada Vacía (ultra rara)
+item.card.blank.fairy.holo_rare.name=§5Carta Hada Vacía (rara holo)
+item.card.blank.fairy.ultra_rare.name=§6Carta Hada Vacía (rara ultra)
 item.card.blank.fairy.secretRare.name=§bCarta Hada Vacía (secreta rara)
 
 item.blankToken.name=Carta Token
@@ -191,10 +197,10 @@ item.token.fighting.rare.name=§9Token de Lucha (raro)
 item.token.fighting.holo_rare.name=§5Token de Lucha (holo raro)
 item.token.fighting.ultra_rare.name=§6Token de Lucha (ultra raro)
 
-item.token.colorless.uncommon.name=§2Token Descolorido (común)
-item.token.colorless.rare.name=§9Token Descolorido (raro)
-item.token.colorless.holo_rare.name=§5Token Descolorido (holo raro)
-item.token.colorless.ultra_rare.name=§6Token Descolorido (ultra raro)
+item.token.colorless.uncommon.name=§2Token Incoloro (común)
+item.token.colorless.rare.name=§9Token Incoloro (raro)
+item.token.colorless.holo_rare.name=§5Token Incoloro (holo raro)
+item.token.colorless.ultra_rare.name=§6Token Incoloro (ultra raro)
 
 item.token.metal.uncommon.name=§2Token de Acero (común)
 item.token.metal.rare.name=§9Token de Acero (raro)
@@ -263,13 +269,13 @@ set.BS.name=Set Básico
 //Alakazam
 card.BS1.name=Alakazam
 ability.BS1.name=Intercambio de daño
-ability.BS1.text=Tantas veces como quieras durante tu turno, puedes remover 1 contador de daño de 1 de tus Pokémon y pasárselo a otro siempre cuando no dejes fuera de combate a ese Pokémon. Este poder no puede ser usado si Alakazam está dormido, confundido o paralizado.
+ability.BS1.text=Tantas veces como quieras durante tu turno, puedes remover 1 contador de daño de 1 de tus Pokémon y pasárselo a otro siempre cuando no dejes fuera de combate a ese Pokémon. No puede ser usado si Alakazam está dormido, confundido o paralizado.
 attack.BS1.1.name=Rayo Confuso
 attack.BS1.1.text=Lanza una moneda. Si sale cara, el Pokémon a la defensa pasa a estar confundido.
 //Blastoise
 card.BS2.name=Blastoise
 ability.BS2.name=Danza Lluvia
-ability.BS2.text=Tan seguido como quieras durante tu turno, puedes unir 1 carta de Energía Agua a uno de tus Pokémon tipo Agua. Este poder no puede ser utilizado si Blastoise está dormido, confundido o paralizado.
+ability.BS2.text=Tan seguido como quieras durante tu turno, puedes unir 1 carta de Energía Agua a uno de tus Pokémon tipo Agua. No puede ser utilizado si Blastoise está dormido, confundido o paralizado.
 attack.BS2.1.name=Hidrobomba
 attack.BS2.1.text=Añade 10 más de daño por cada carta de Energía Agua que no sea utilizada para pagar el costo de este ataque. La energía Agua extra a partir de la 2da no cuentan.
 //Chansey
@@ -281,7 +287,7 @@ attack.BS3.2.text=Chansey se hace 80 de daño a sí mismo.
 //Charizard
 card.BS4.name=Charizard
 ability.BS4.name=Quema de Energía
-ability.BS4.text=Tantas veces como quieras durante tu turno, puedes transformar toda la energía unida a Charizard en Energía Fuego. Este poder no se puede utilizar si Charizard está dormido, confundido o paralizado.
+ability.BS4.text=Tantas veces como quieras durante tu turno, puedes transformar toda la energía unida a Charizard en Energía Fuego. No se puede utilizar si Charizard está dormido, confundido o paralizado.
 attack.BS4.1.name=Giro Fuego
 attack.BS4.1.text=Descarta 2 cartas de energía unidas a Charizard para poder usar este ataque.
 //Clefairy
@@ -302,7 +308,7 @@ attack.BS7.2.name=Golpe Especial
 //Machamp
 card.BS8.name=Machamp
 ability.BS8.name=Devuelve Golpe
-ability.BS8.text=Siempre que el ataque de tu rival dañe a Machamp, este poder no puede ser usado si Machamp esta dormido, confundido o paralizado cuando tu rival ataca.
+ability.BS8.text=Siempre que el ataque de tu rival dañe a Machamp, no puede ser usado si Machamp esta dormido, confundido o paralizado cuando tu rival ataca.
 attack.BS8.1.name=Movimiento Sísmico
 //Magneton
 card.BS9.name=Magneton
@@ -343,7 +349,7 @@ attack.BS14.2.text=Lanza una moneda. Si sale cruz, Raichu se hace 30 puntos de d
 //Venusaur
 card.BS15.name=Venusaur
 ability.BS15.name=Traspaso Energía
-ability.BS15.text=Tantas veces como quieras durante tu turno, puedes tomar una Energía Planta unida a unos de tus Pokémon y unirla a otro de ellos. Este poder no puede ser usado si Venusaur esta confundido, dormido o paralizado.
+ability.BS15.text=Tantas veces como quieras durante tu turno, puedes tomar una Energía Planta unida a unos de tus Pokémon y unirla a otro de ellos. No puede ser usado si Venusaur esta confundido, dormido o paralizado.
 attack.BS15.1.name=Rayo Solar
 //Zapdos
 card.BS16.name=Zapdos
@@ -377,7 +383,7 @@ attack.BS20.2.text=Lanza una moneda. Si sale cara, este ataque hace 10 más de d
 //Electrode
 card.BS21.name=Electrode
 ability.BS21.name=Matazumbido
-ability.BS21.text=Puedes dejar fuera de combate a Electrode y unirlo a 1 de tus otros Pokémon. Electrode cuenta como 2 de energía de un tipo a elegir. Este poder no puede ser usado si Electrode está dormido, confundido o paralizado.
+ability.BS21.text=Puedes dejar fuera de combate a Electrode y unirlo a 1 de tus otros Pokémon. Electrode cuenta como 2 de energía de un tipo a elegir. No puede ser usado si Electrode está dormido, confundido o paralizado.
 attack.BS21.1.name=Descarga Eléctrica
 attack.BS21.1.text=Lanza una moneda. Si sale cruz, Electrode se hace 10 puntos de daño a sí mismo.
 //Pidgeotto
@@ -688,386 +694,393 @@ deck.brushfire.name=Quemabosques
 deck.blackout.name=Apagón
 
 //Jungle Set
-set.JG.name=Jungle Set
+set.JG.name=Set Jungla
 
 //Jungle Set - Pokemon and Attacks
 //Clefable
 card.JG1.name=Clefable
-attack.JG1.1.name=Metronome
-attack.JG1.1.text=Choose an attack belonging to the Defending Pokémon, and use it as your own.
-attack.JG1.2.name=Minimize
-attack.JG1.2.text=All damage done by attacks to Clefable during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance).
+attack.JG1.1.name=Metrónomo
+attack.JG1.1.text=Elige un ataque del Pokémon a la defensa, y copia ese ataque.
+attack.JG1.2.name=Reducción
+attack.JG1.2.text=Todo el daño producido por ataques a Clefable durante el próximo turno de tu rival se reduce 20 puntos (después de aplicar debilidad y resistencia).
 //Electrode
 card.JG2.name=Electrode
-attack.JG2.1.name=Tackle
+attack.JG2.1.name=Placaje
 attack.JG2.1.text=
-attack.JG2.2.name=Chain Lightning
-attack.JG2.2.text=If the Defending Pokémon isn't Colorless, this attack does 10 damage to each Benched Pokémon of the same type (including your own).
+attack.JG2.2.name=Cadena de relámpagos
+attack.JG2.2.text=Si el Pokémon Defensor no es incoloro, este ataque hace 10 de daño a cada Pokémon en Banca del mismo tipo que el Pokémon(incluyendo su propia banca).
 //Flareon
 card.JG3.name=Flareon
-attack.JG3.1.name=Quick Attack
-attack.JG3.1.text=Flip a coin. If heads, this attack 20 more damage
-attack.JG3.2.name=Flamethrower
-attack.JG3.2.text=Discard 1 Fire Energy card attached to Flareon in order to use this attack.
+attack.JG3.1.name=Ataque Rápido
+attack.JG3.1.text=Lanza una moneda. Si sale cara, este ataque hace 20 más de daño.
+attack.JG3.2.name=Lanzallamas
+attack.JG3.2.text=Descarta una carta de Energía Fuego unida a Flareon para poder usar este ataque.
 //Jolteon
 card.JG4.name=Jolteon
-attack.JG4.1.name=Quick Attack
-attack.JG4.1.text=Flip a coin. If heads, this attack 20 more damage
-attack.JG4.2.name=Pin Missile
-attack.JG4.2.text=Flip 4 coins. This attack does 20 damage times the number of heads.
+attack.JG4.1.name=Ataque Rápido
+attack.JG4.1.text=Lanza una moneda. Si sale cara, este ataque hace 20 más de daño.
+attack.JG4.2.name=Pin Misil
+attack.JG4.2.text=Lanza 4 monedas. Este ataque hace 20 puntos de daño multiplicado por la cantidad de caras que salgan.
 //Kangaskhan
 card.JG5.name=Kangaskhan
-attack.JG5.1.name=Fetch
-attack.JG5.1.text=Draw a card.
-attack.JG5.2.name=Comet Punch
-attack.JG5.2.text=Flip 4 coins. This attack does 20 damage times the number of heads.
+attack.JG5.1.name=Recoger
+attack.JG5.1.text=Roba una carta.
+attack.JG5.2.name=Puño Cometa
+attack.JG5.2.text=Lanza 4 monedas. Este ataque hace 20 puntos de daño multiplicado por la cantidad de caras que salgan.
 //Mr. Mime
 card.JG6.name=Mr. Mime
-ability.JG6.name=Invisible Wall
-ability.JG6.text=Prevent Damage caused by an attack that does 30 or more damage to Mr. Mime, any other effects of attacks still happen. Disabled by Sleep, Confused, or Paralyzed.
-attack.JG6.1.name=Meditate
-attack.JG6.1.text=Does 10 damage plus 10 more damage for each damage counter on the Defending Pokémon.
+ability.JG6.name=Pared Invisible
+ability.JG6.text=Cada vez que un ataque hace 30 o más puntos de daño a Mr. Mime, prevén ese daño, cualquier otro efecto de los ataques siguen sucediendo. No puede ser utilizado si el Mr. Mime esta Dormido Confundido o Paralizado.
+attack.JG6.1.name=Meditar
+attack.JG6.1.text=Hace 10 de daño mas otros 10 por cada contador de daño que tenga el Pokémon defensor.
 //Nidoqueen
 card.JG7.name=Nidoqueen
-attack.JG7.1.name=Boyfriends
-attack.JG7.1.text=Does 20 damage plus 20 more damage for each Nidoking you have in play.
-attack.JG7.2.name=Mega Punch
+attack.JG7.1.name=Novios
+attack.JG7.1.text=Hace 20 puntos de daño mas otros 20 por cada Nidoking que tengas en juego.
+attack.JG7.2.name=Megapuño
 attack.JG7.2.text=
 //Pidgeot
 card.JG8.name=Pidgeot
-attack.JG8.1.name=Wing Attack 
+attack.JG8.1.name=Ataque Ala
 attack.JG8.1.text=
-attack.JG8.2.name=Hurricane
-attack.JG8.2.text=Unless this attack Knocks Out the Defending Pokémon, return the Defending Pokémon and all cards attached to it to your opponent's hand.
+attack.JG8.2.name=Vendaval
+attack.JG8.2.text=A menos que el ataque deje K.O a el Pokémon defensor, devuelve a el Pokémon defensor a la mano del rival.
 //Pinsir
 card.JG9.name=Pinsir
-attack.JG9.1.name=Irongrip 
-attack.JG9.1.text=Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
-attack.JG9.2.name=Guillotine
+attack.JG9.1.name=Agarre 
+attack.JG9.1.text=Lanza una moneda, si sale cara, el Pokémon defensor pasa a estar paralizado.
+attack.JG9.2.name=Guillotina
 attack.JG9.2.text=
 //Scyther
 card.JG10.name=Scyther
-attack.JG10.1.name=Swords Dance
-attack.JG10.1.text=During your next turn, Scyther's Slash attack's base damage is 60 instead of 30.
-attack.JG10.2.name=Slash
+attack.JG10.1.name=Danza Espada
+attack.JG10.1.text=Durante el siguiente turno, el ataque Cuchillada de Scyther pasará de hacer 30 puntos de daño a 60.
+attack.JG10.2.name=Cuchillada
 attack.JG10.2.text=
 //Snorlax
 card.JG11.name=Snorlax
-ability.JG11.name=Thick Skinned
-ability.JG11.text=Snorlax can't become Asleep, Confused, Paralyzed, or Poisoned. Disabled if Snorlax is already Asleep, Confused, or Paralyzed.
-attack.JG11.1.name=Body Slam
-attack.JG11.1.text=Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+ability.JG11.name=Piel Gruesa
+ability.JG11.text=Snorlax no puede ser Dormido, Confundido, Paralizado o Envenenado. No puede ser utilizado si Snorlax ya está dormido, confundido o paralizado.
+attack.JG11.1.name=Golpe Cuerpo
+attack.JG11.1.text=Lanza una moneda, si sale cara el Pokémon defensor pasa a estar paralizado.
 //Vaporeon
 card.JG12.name=Vaporeon
-attack.JG12.1.name=Quick Attack 
-attack.JG12.1.text=Flip a coin. If heads, this attack 20 more damage
-attack.JG12.2.name=Water Gun
-attack.JG12.2.text=Does 30 damage plus 10 more damage for each Water Energy attached which is not used to pay for this attack. Limited to 2 extra Water Energy.
+attack.JG12.1.name=Ataque Rápido
+attack.JG12.1.text=Lanza una moneda. Si sale cara, este ataque hace 20 más de daño.
+attack.JG12.2.name=Pistola Agua
+attack.JG12.2.text=Hace 30 de daño más 10 más de daño por cada Energía Agua unida a Vaporeon que no sea usada para pagar el coste de este ataque. Energía Agua extra después de la segunda no cuenta.
 //Venomoth
 card.JG13.name=Venomoth
-ability.JG13.name=Shift
-ability.JG13.text=Before your attack you may change the type of Venomoth to the type of any other Pokémon in play other than Colorless. Disabled by Sleep, Confused, or Paralyzed.
-attack.JG13.1.name=Venom Powder
-attack.JG13.1.text=Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned.
+ability.JG13.name=Cambio
+ability.JG13.text=Una vez durante tu turno, puedes cambiar el tipo de Venomoth con el tipo de cualquier otro Pokémon que no sea incoloro. No puede ser utilizado si Venomoth es dormido, confundido o paralizado.
+attack.JG13.1.name=Polvo Veneno
+attack.JG13.1.text=Lanza una moneda. Si sale cara, el Pokémon Defensor pasa a estar Confundido y Envenenado.
 //Victreebel
 card.JG14.name=Victreebel
-attack.JG14.1.name=Lure
-attack.JG14.1.text=If your opponent has any Benched Pokémon, choose 1 of them and switch it with his or her Active Pokémon.
-attack.JG14.2.name=Acid
-attack.JG14.2.text=Flip a coin. If heads, the Defending Pokémon can't retreat during your opponent's next turn.
+attack.JG14.1.name=Atraer
+attack.JG14.1.text=Si tu rival tiene algún pokémon en su banca, elige 1 de ellos y cámbialo con su pokémon activo.
+attack.JG14.2.name=Ácido
+attack.JG14.2.text=Lanza una moneda. Si sale cara, el Pokémon a la defensa no se puede retirar durante el próximo turno de tu rival.
 //Vileplume
 card.JG15.name=Vileplume
-ability.JG15.name=Heal
-ability.JG15.text=Once during your turn you may flip a coin. If heads, remove 1 damage counter from 1 of your Pokémon. Disabled by Sleep, Confused, or Paralyzed.
-attack.JG15.1.name=Petal Dance
-attack.JG15.1.text=Flip 3 coins. This attack does 40 damage times the number of heads. Vileplume is now Confused (after doing damage).
+ability.JG15.name=Curación
+ability.JG15.text=Cuando sea tu turno, puedes lanzar una moneda. Si sale cara, retira 1 punto de daño en contra de 1 de los Pokémon. No se puede usar si Vileplume está dormido, confuso o paralizado.
+attack.JG15.1.name=Danza Pétalo
+attack.JG15.1.text=Tira 3 monedas. Este ataque hace 40 de daño por el número de caras que salgan. Vileplume es confundido (después de hacer daño).
 //Wigglytuff
 card.JG16.name=Wigglytuff
-attack.JG16.1.name=Lullaby
-attack.JG16.1.text=The Defending Pokémon is now Asleep.
-attack.JG16.2.name=Do the Wave
-attack.JG16.2.text=Does 10 damage plus 10 more damage for each of your Benched Pokémon.
+attack.JG16.1.name=Nana
+attack.JG16.1.text=El Pokémon que este a defensa pasa a estar dormido.
+attack.JG16.2.name=Sigue la Onda
+attack.JG16.2.text=Recibe 10 puntos de daño y 10 más de daños por cada uno de sus Pokémon en juego.
 //Clefable
 card.JG17.name=Clefable
-attack.JG17.1.name=Metronome
-attack.JG17.1.text=Choose an attack belonging to the Defending Pokémon, and use it as your own.
-attack.JG17.2.name=Minimize
-attack.JG17.2.text=All damage done by attacks to Clefable during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance).
+attack.JG17.1.name=Metrónomo
+attack.JG17.1.text=Elige 1 de los ataques del Pokémon a la defensa, y copia ese ataque.
+attack.JG17.2.name=Reducción
+attack.JG17.2.text=Todo el daño producido por ataques a Clefable durante el próximo turno de tu rival se reduce 20 puntos (después de aplicar debilidad y resistencia).
 //Electrode
 card.JG18.name=Electrode
-attack.JG18.1.name=Tackle
+attack.JG18.1.name=Placaje
 attack.JG18.1.text=
-attack.JG18.2.name=Chain Lightning
-attack.JG18.2.text=If the Defending Pokémon isn't Colorless, this attack does 10 damage to each Benched Pokémon of the same type (including your own).
+attack.JG18.2.name=Cadena de Relámpagos
+attack.JG18.2.text=Si el Pokémon Defensor no es incoloro, este ataque hace 10 de daño a cada Pokémon en Banca del mismo tipo que el Pokémon a la defensa (incluyendo su propia banca).
 //Flareon
 card.JG19.name=Flareon
-attack.JG19.1.name=Quick Attack
-attack.JG19.1.text=Flip a coin. If heads, this attack 20 more damage
-attack.JG19.2.name=Flamethrower
-attack.JG19.2.text=Discard 1 Fire Energy card attached to Flareon in order to use this attack.
+attack.JG19.1.name=Ataque Rápido
+attack.JG19.1.text=Lanza una moneda. Si sale cara este ataque hace 20 más de daño.
+attack.JG19.2.name=Lanzallamas
+attack.JG19.2.text=Descarta una carta de Energía Fuego unida a Flareon para poder usar este ataque.
 //Jolteon
 card.JG20.name=Jolteon
-attack.JG20.1.name=Quick Attack
-attack.JG20.1.text=Flip a coin. If heads, this attack 20 more damage
-attack.JG20.2.name=Pin Missile
-attack.JG20.2.text=Flip 4 coins. This attack does 20 damage times the number of heads.
+attack.JG20.1.name=Ataque Rápido
+attack.JG20.1.text=Lanza una moneda. Si sale cara, este ataque hace 20 puntos más de daño.
+attack.JG20.2.name=Pin Misil
+attack.JG20.2.text=Lanza 4 monedas. Este ataque hace 20 puntos de daño multiplicado por la cantidad de caras.
 //Kangaskhan
 card.JG21.name=Kangaskhan
-attack.JG21.1.name=Fetch
-attack.JG21.1.text=Draw a card.
-attack.JG21.2.name=Comet Punch
-attack.JG21.2.text=Flip 4 coins. This attack does 20 damage times the number of heads.
+attack.JG21.1.name=Recoger
+attack.JG21.1.text=Roba una carta.
+attack.JG21.2.name=Puño Cometa
+attack.JG21.2.text=Lanza 4 monedas. Este ataque hace 20 puntos más de daño por cada cara.
 //Mr. Mime
 card.JG22.name=Mr. Mime
-ability.JG22.name=Invisible Wall
-ability.JG22.text=Prevent Damage caused by an attack that does 30 or more damage to Mr. Mime, any other effects of attacks still happen. Disabled by Sleep, Confused, or Paralyzed.
-attack.JG22.1.name=Meditate
-attack.JG22.1.text=Does 10 damage plus 10 more damage for each damage counter on the Defending Pokémon.
+ability.JG22.name=Pared Invisible
+ability.JG22.text=Previene el Daño causado por ataques que hace 30 o más de daño a Mr. Mime, cualquier otro efecto de los ataques siguen sucediendo. No se puede usar si está dormido, confuso o paralizado.
+attack.JG22.1.name=Meditar
+attack.JG22.1.text=Hace 10 de daño mas otros 10 por cada contador de daño que tenga el Pokémon defensor.
 //Nidoqueen
 card.JG23.name=Nidoqueen
-attack.JG23.1.name=Boyfriends
-attack.JG23.1.text=Does 20 damage plus 20 more damage for each Nidoking you have in play.
-attack.JG23.2.name=Mega Punch
+attack.JG23.1.name=Novios
+attack.JG23.1.text=Hace 20 puntos de daño mas otros 20 por cada Nidoking que tengas en juego.
+attack.JG23.2.name=Megapuño
 attack.JG23.2.text=
 //Pidgeot
 card.JG24.name=Pidgeot
-attack.JG24.1.name=Wing Attack 
+attack.JG24.1.name=Ataque Ala
 attack.JG24.1.text=
-attack.JG24.2.name=Hurricane
-attack.JG24.2.text=Unless this attack Knocks Out the Defending Pokémon, return the Defending Pokémon and all cards attached to it to your opponent's hand.
+attack.JG24.2.name=Vendaval
+attack.JG24.2.text=A menos que el ataque deje K.O a el Pokémon defensor, devuelve a el Pokémon defensor a la mano del rival.
 //Pinsir
 card.JG25.name=Pinsir
-attack.JG25.1.name=Irongrip 
-attack.JG25.1.text=Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
-attack.JG25.2.name=Guillotine
+attack.JG25.1.name=Agarre 
+attack.JG25.1.text=Lanza una moneda. Si sale cara, el Pokémon defensor pasa a estar paralizado.
+attack.JG25.2.name=Guillotina
 attack.JG25.2.text=
 //Scyther
 card.JG26.name=Scyther
-attack.JG26.1.name=Swords Dance
-attack.JG26.1.text=During your next turn, Scyther's Slash attack's base damage is 60 instead of 30.
-attack.JG26.2.name=Slash
+attack.JG26.1.name=Danza Espada
+attack.JG26.1.text=Durante el siguiente turno, el ataque Cuchillada de Scyther pasará de hacer 30 puntos de daño a 60.
+attack.JG26.2.name=Cuchillada
 attack.JG26.2.text=
 //Snorlax
 card.JG27.name=Snorlax
-ability.JG27.name=Thick Skinned
-ability.JG27.text=Snorlax can't become Asleep, Confused, Paralyzed, or Poisoned. Disabled if Snorlax is already Asleep, Confused, or Paralyzed.
-attack.JG27.1.name=Body Slam
-attack.JG27.1.text=Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+ability.JG27.name=Piel Gruesa
+ability.JG27.text=Snorlax no puede ser Dormido, Confundido, Paralizado o Envenenado . Este poder no puede ser utilizado si Snorlax ya está dormido, confundido o paralizado.
+attack.JG27.1.name=Golpe Cuerpo
+attack.JG27.1.text=Lanza una moneda, si sale cara el Pokémon defensor pasa a estar paralizado.
 //Vaporeon
 card.JG28.name=Vaporeon
-attack.JG28.1.name=Quick Attack 
-attack.JG28.1.text=Flip a coin. If heads, this attack 20 more damage
-attack.JG28.2.name=Water Gun
-attack.JG28.2.text=Does 30 damage plus 10 more damage for each Water Energy attached which is not used to pay for this attack. Limited to 2 extra Water Energy.
+attack.JG28.1.name=Ataque Rápido
+attack.JG28.1.text=Lanza una moneda. Si sale cara este ataque hace 20 más de daño.
+attack.JG28.2.name=Pistola de Agua
+attack.JG28.2.text=Hace 30 de daño más 10 más de daño por cada Energía Agua unida a Vaporeon para pagar el coste de este ataque. Limitado a 2 extra Energía Agua.
 //Venomoth
 card.JG29.name=Venomoth
-ability.JG29.name=Shift
-ability.JG29.text=Before your attack you may change the type of Venomoth to the type of any other Pokémon in play other than Colorless. Disabled by Sleep, Confused, or Paralyzed.
-attack.JG29.1.name=Venom Powder
-attack.JG29.1.text=Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned.
+ability.JG29.name=Cambio
+ability.JG29.text=Antes de atacar  es posible cambiar el tipo de Venomoth con el tipo de cualquier otro Pokémon en el juego que no sea Incoloro. No puede ser utilizado si Venomoth es dormido, confundido o paralizado.
+attack.JG29.1.name=Polvo Veneno
+attack.JG29.1.text=Lanza una moneda. Si sale cara, el Pokémon Defensor pasa a estar Confundido y Envenenado.
 //Victreebel
 card.JG30.name=Victreebel
-attack.JG30.1.name=Lure
-attack.JG30.1.text=If your opponent has any Benched Pokémon, choose 1 of them and switch it with his or her Active Pokémon.
-attack.JG30.2.name=Acid
-attack.JG30.2.text=Flip a coin. If heads, the Defending Pokémon can't retreat during your opponent's next turn.
+attack.JG30.1.name=Atraer
+attack.JG30.1.text=Si tu rival tiene algún pokémon en su banca, elige 1 de ellos y cámbialo con su pokémon activo.
+attack.JG30.2.name=Ácido
+attack.JG30.2.text=Lanza una moneda. Si sale cara, el Pokémon a la defensa no se puede retirar durante el próximo turno de tu rival.
 //Vileplume
 card.JG31.name=Vileplume
-ability.JG31.name=Heal
-ability.JG31.text=Once during your turn you may flip a coin. If heads, remove 1 damage counter from 1 of your Pokémon. Disabled by Sleep, Confused, or Paralyzed.
-attack.JG31.1.name=Petal Dance
-attack.JG31.1.text=Flip 3 coins. This attack does 40 damage times the number of heads. Vileplume is now Confused (after doing damage).
+ability.JG31.name=Curación
+ability.JG31.text=Durante tu turno puedes lanzar una moneda. Si sale cara, retira 1 punto de daño en contra de 1 de los Pokémon. No se puede usar si está dormido, confusos o paralizado.
+attack.JG31.1.name=Danza pétalo
+attack.JG31.1.text=Tira 3 monedas. Este ataque hace 40 de daño por el número de caras que salgan. Vileplume es confundido (después de hacer daño).
 //Wigglytuff
 card.JG32.name=Wigglytuff
-attack.JG32.1.name=Lullaby
-attack.JG32.1.text=The Defending Pokémon is now Asleep.
-attack.JG32.2.name=Do the Wave
-attack.JG32.2.text=Does 10 damage plus 10 more damage for each of your Benched Pokémon.
+attack.JG32.1.name=Nana
+attack.JG32.1.text=El Pokémon que este a defensa pasa a estar dormido.
+attack.JG32.2.name=Sigue la Onda
+attack.JG32.2.text=Hace 10 puntos de daño y 10 más de daño por cada uno de sus Pokémon en juego.
 //Butterfree
 card.JG33.name=Butterfree
-attack.JG33.1.name=Whirlwind
-attack.JG33.1.text=If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Apply damage before switching.)
-attack.JG33.2.name=Mega Drain
-attack.JG33.2.text=Heal Butterfree equal to half the damage done to the Defending Pokémon.
+attack.JG33.1.name=Remolino
+attack.JG33.1.text=Si tu oponente tiene algún Pokemon, elegirá uno de ellos y lo cambia con el Pokémon Defensor. (Aplica el daño antes de cambiar.)
+attack.JG33.2.name=Megaagotar
+attack.JG33.2.text=Cura a Butterfree igual a la mitad del daño hecho al Pokémon Defensor.
 //Dodrio
 card.JG34.name=Dodrio
-ability.JG34.name=Retreat Aid
-ability.JG34.text=As long as Dodrio is Benched, pay one Energy Card less to retreat your Active Pokémon.
-attack.JG34.1.name=Rage
-attack.JG34.1.text=Does 10 damage plus 10 more damage for each damage counter on Dodrio.
+ability.JG34.name=Ayuda de Retiro
+ability.JG34.text=Mientras Dodrio esté en la Banca, paga una Energía incolora menos para retirar a tu pokémon activo.
+attack.JG34.1.name=Furia
+attack.JG34.1.text=Hace 10 de daño más 10 más daño por cada contador de daño en Dodrio.
 //Exeggutor
 card.JG35.name=Exeggutor
-attack.JG35.1.name=Teleport
-attack.JG35.1.text=Switch Exeggutor with one of your Benched Pokémon.
-attack.JG35.2.name=Big Eggsplosion
-attack.JG35.2.text=Flip a coin equal to the number of Energy Cards attached to Exeggutor. This attack does 20 damage times the number of heads.
+attack.JG35.1.name=Teletransporte
+attack.JG35.1.text=Cambia a Exeggutor por uno de tus Pokémon en la Banca.
+attack.JG35.2.name=Gran Huevoxplosión
+attack.JG35.2.text=Lanza monedas igual al número de Energías unidas a Exeggutor. Este ataque hace 20 puntos de daño multiplicado por la cantidad de caras.
 //Fearow
 card.JG36.name=Fearow
-attack.JG36.1.name=Agility
-attack.JG36.1.text=Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Fearow.
-attack.JG36.2.name=Drill Peck
+attack.JG36.1.name=Agilidad
+attack.JG36.1.text=Lanza una moneda. Si sale cara, durante el próximo turno de tu oponente, evita todos los efectos de los ataques, incluido el daño hecho a Fearow.
+attack.JG36.2.name=Pico Taladro
 attack.JG36.2.text=
 //Gloom
 card.JG37.name=Gloom
-attack.JG37.1.name=Poisonpowder
-attack.JG37.1.text=The Defending Pokémon is now Poisoned.
-attack.JG37.2.name=Foul Odor
-attack.JG37.2.text=Both the Defending Pokémon and Gloom are now Confused (after doing damage).
+attack.JG37.1.name=Polvo Veneno
+attack.JG37.1.text=El Pokémon a la defensa pasa a estar Envenenado.
+attack.JG37.2.name=Olor Pestilente
+attack.JG37.2.text=Tanto el Pokémon a la defensa como Gloom pasan a estar Confundidos (después de hacer daño).
 //Lickitung
 card.JG38.name=Lickitung
-attack.JG38.1.name=Tongue Wrap 
-attack.JG38.1.text=Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
-attack.JG38.2.name=Supersonic
-attack.JG38.2.text=Flip a coin. If heads, the Defending Pokémon is now Confused
+attack.JG38.1.name=Enrosque Lengua
+attack.JG38.1.text=Lanza una moneda. Si sale cara, el Pokémon a la defensa pasa a estar Paralizado.
+attack.JG38.2.name=Supersónico
+attack.JG38.2.text=Lanza una moneda. Si sale cara, el Pokémon a la defensa pasa a estar Confundido.
 //Marowak
 card.JG39.name=Marowak
-attack.JG39.1.name=Bonemerang
-attack.JG39.1.text=Flip 2 coins. This attack does 30 damage times the number of heads.
-attack.JG39.2.name=Call for Friend
-attack.JG39.2.text=Search your deck for a Fighting Basic Pokémon card and put it onto your Bench. Shuffle your deck afterward.
+attack.JG39.1.name=Huesomerang
+attack.JG39.1.text=Lanza 2 monedas. Este ataque hace 30 puntos de daño por cada cara.
+attack.JG39.2.name=Llamada a un amigo
+attack.JG39.2.text=Busca en tu mazo una carta de un Pokémon Básico tipo Energía Lucha y ponla en tu Banca. Baraja tu mazo después..
 //Nidorina
 card.JG40.name=Nidorina
-attack.JG40.1.name=Supersonic
-attack.JG40.1.text=Flip a coin. If heads, the Defending Pokémon is now Confused.
-attack.JG40.2.name=Double Kick
-attack.JG40.2.text=Flip 2 coins. This attack does 30 damage times the number of heads.
+attack.JG40.1.name=Supersónico
+attack.JG40.1.text=Lanza una moneda. Si sale cara, el Pokémon a la defensa pasa a estar confundido.
+attack.JG40.2.name=Doble Patada
+attack.JG40.2.text=Lanza 2 monedas. Este ataque hace 30 puntos de daño multiplicado por el número de caras.
 //Parasect
 card.JG41.name=Parasect
-attack.JG41.1.name=Spore
-attack.JG41.1.text=The Defending Pokémon is now Asleep.
-attack.JG41.2.name=Slash
+attack.JG41.1.name=Espora
+attack.JG41.1.text=El Pokémon a la defensa pasa a estar Dormido.
+attack.JG41.2.name=Cuchillada
 attack.JG41.2.text=
 //Persian
 card.JG42.name=Persian
-attack.JG42.1.name=Scratch
+attack.JG42.1.name=Arañazo
 attack.JG42.1.text=
-attack.JG42.2.name=Pounce
-attack.JG42.2.text=If the Defending Pokémon attacks Persian during your opponent's next turn, any damage done by the attack is reduced by 10.
+attack.JG42.2.name=Abalanzar
+attack.JG42.2.text=Si el Pokémon a la defensa ataca a Persian durante el próximo turno de tu rival, cualquier daño hecho por el ataque se reduce 10 puntos.
 //Primeape
 card.JG43.name=Primeape
-attack.JG43.1.name=Fury Swipes
-attack.JG43.1.text=Flip 3 coins. This attack does 20 damage times the number of heads.
-attack.JG43.2.name=Tantrum
-attack.JG43.2.text=Flip a coin. If tails, Primeape is now Confused (after doing damage).
+attack.JG43.1.name=Golpes Furia
+attack.JG43.1.text=Lanza 3 monedas. Este ataque hace 20 puntos de daño por cada cara.
+attack.JG43.2.name=Berrinche
+attack.JG43.2.text=Lanza una moneda. Si sale cruz, Primeape pasa a estar Confundido (después de hacer daño).
 //Rapidash
 card.JG44.name=Rapidash
-attack.JG44.1.name=Stomp
-attack.JG44.1.text=Flip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage.
-attack.JG44.2.name=Agility
-attack.JG44.2.text=Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Rapidash.
+attack.JG44.1.name=Pisotón
+attack.JG44.1.text=Lanza una moneda. Si sale cara, este ataque hace 20 puntos de daño más 10 más daño, y si sale cruz, este ataque hace 20 puntos de daño.
+attack.JG44.2.name=Agilidad
+attack.JG44.2.text=Lanza una moneda. Si sale cara, durante el próximo turno de tu oponente, evitas todos los efectos de los ataques, incluido el daño hecho a Rapidash.
 //Rhydon
 card.JG45.name=Rhydon
-attack.JG45.1.name=Horn Attack
+attack.JG45.1.name=Cornada
 attack.JG45.1.text=
-attack.JG45.2.name=Ram
-attack.JG45.2.text=Rhydon does 20 damage to itself. If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it.
+attack.JG45.2.name=Apretar
+attack.JG45.2.text=Rhydon se hace 20 de daño a sí mismo. Si tu oponente tiene algún Pokémon en la banca, escogerá uno de ellos y lo cambiará con el Pokémon Defensor.
 //Seaking
 card.JG46.name=Seaking
-attack.JG46.1.name=Horn Attack
+attack.JG46.1.name=Cornada
 attack.JG46.1.text=
-attack.JG46.2.name=Waterfall
+attack.JG46.2.name=Cascada
 attack.JG46.2.text=
 //Tauros
 card.JG47.name=Tauros
-attack.JG47.1.name=Stomp
-attack.JG47.1.text=Flip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage.
-attack.JG47.2.name=Rampage
-attack.JG47.2.text=Does 20 damage plus 10 more damage for each damage counter on Tauros. Flip a coin. If tails, Tauros is now Confused (after doing damage).
+attack.JG47.1.name=Pisotón
+attack.JG47.1.text=anza una moneda. Si sale cara, este ataque hace 20 puntos de daño más 10 más daño, y si sale cruz, este ataque hace 20 puntos de daño.
+attack.JG47.2.name=Alboroto
+attack.JG47.2.text=Hace 20 de daño más 10 más de daño por cada contador de daño en Tauros. Lanza una moneda. Si sale cruz, Tauros pasa a estar Confundido (después de hacer daño).
 //Weepinbell
 card.JG48.name=Weepinbell
-attack.JG48.1.name=Poisonpowder
-attack.JG48.1.text=Flip a coin. If heads, the Defending Pokémon is now Poisoned.
-attack.JG48.2.name=Razor Leaf 
+attack.JG48.1.name=Polvo Veneno
+attack.JG48.1.text=Lanza una moneda. Si sale cara el Pokémon a la defensa pasa a estar envenenado.
+attack.JG48.2.name=Hoja Afilada
 attack.JG48.2.text=
 //Bellsprout
 card.JG49.name=Bellsprout
-attack.JG49.1.name=Vine Whip
+attack.JG49.1.name=Látigo Cepa
 attack.JG49.1.text=
-attack.JG49.2.name=Call for Family
-attack.JG49.2.text=Search your deck for a Basic Pokémon named Bellsprout and put it onto your Bench. Shuffle your deck afterward.
+attack.JG49.2.name=Llamado a la Familia
+attack.JG49.2.text=Busca al Pokémon Básico llamado Bellsprout y colócalo en tu Banca. Después baraja tu mazo
 //Cubone
 card.JG50.name=Cubone
-attack.JG50.1.name=Snivel
-attack.JG50.1.text=If the Defending Pokémon attacks Cubone during your opponent's next turn, any damage done by the attack is reduced by 20.
-attack.JG50.2.name=Rage
-attack.JG50.2.text=Does 10 damage plus 10 more damage for each damage counter on Cubone.
+attack.JG50.1.name=Llanto
+attack.JG50.1.text=Si el Pokémon a la defensa ataca a Cubone durante el próximo turno de tu oponente, cualquier daño causado por el ataque se reduce en 20.
+attack.JG50.2.name=Furia
+attack.JG50.2.text=Hace 10 de daño más otros 10 por cada contador de daño en Cubone.
 //Eevee
 card.JG51.name=Eevee
-attack.JG51.1.name=Tail Wag
-attack.JG51.1.text=Flip a coin. If heads, the Defending Pokémon can't attack Eevee during your opponent's next turn.
-attack.JG51.2.name=Quick Attack 
-attack.JG51.2.text=Flip a coin. If heads, this attack 20 more damage
+attack.JG51.1.name=Coleteo
+attack.JG51.1.text=Lanza una moneda. Si sale cara el Pokémon a la defensa no puede atacar a Eevee durante el próximo turno de tu rival.
+attack.JG51.2.name=Ataque Rápido
+attack.JG51.2.text=Lanza una moneda. Si sale cara este ataque hace 20 más de daño.
 //Exeggucte
 card.JG52.name=Exeggcute
-attack.JG52.1.name=Hypnosis
-attack.JG52.1.text=The Defending Pokémon is now Asleep.
-attack.JG52.2.name=Leech Seed
-attack.JG52.2.text=Unless all damage from this attack is prevented, you may remove 1 damage counter from Exeggcute.
+attack.JG52.1.name=Hipnosis
+attack.JG52.1.text=El Pokémon a la defensa pasa a estar Dormido.
+attack.JG52.2.name=Drenadoras
+attack.JG52.2.text=A menos que todo daño de este ataque sea prevenido, puedes quitar 1 contador de daño de Exeggcute.
 //Goldeen
 card.JG53.name=Goldeen
-attack.JG53.1.name=Horn Attack
+attack.JG53.1.name=Cornada
 attack.JG53.1.text=
 //Jigglypuff
 card.JG54.name=Jigglypuff
-attack.JG54.1.name=Lullaby
-attack.JG54.1.text=The Defending Pokémon is now Asleep.
-attack.JG54.2.name=Pound
+attack.JG54.1.name=Nana
+attack.JG54.1.text=El Pokémon a la defensa pasa a estar Dormido.
+attack.JG54.2.name=Golpe
 attack.JG54.2.text=
 //Mankey
 card.JG55.name=Mankey
-ability.JG55.name=Peek
-ability.JG55.text=Before your attack you may look at one of the following: the top card of either player's deck, a random card from your opponent's hand, or one of either player's Prizes. Disabled by Sleep, Confused, or Paralyzed.
-attack.JG55.1.name=Scratch
+ability.JG55.name=Vistazo
+ability.JG55.text=Después de atacar puedes mirar una de las siguientes:  la carta superior del mazo de cualquier jugador, una carta al azar de la mano de tu oponente, o uno de los premios de cualquiera de los dos jugadores. No puede ser usado si se encuentra Dormido, Confundido o Paralizado.
+attack.JG55.1.name=Arañazo
 attack.JG55.1.text=
 //Meowth
 card.JG56.name=Meowth
-attack.JG56.1.name=Pay Day
-attack.JG56.1.text=Flip a coin. If heads, draw a card.
+attack.JG56.1.name=Día de Pago
+attack.JG56.1.text=Lanza una moneda. Si sale cara, roba una carta.
 //Nidoran♀
 card.JG57.name=Nidoran♀
-attack.JG57.1.name=Fury Swipes 
-attack.JG57.1.text=Flip 3 coins. This attack does 10 damage times the number of heads.
-attack.JG57.2.name=Call for Family
-attack.JG57.2.text=Search your deck for a Basic Pokémon named Nidoran♂ or Nidoran♀ and put it onto your Bench. Shuffle your deck afterward.
+attack.JG57.1.name=Golpes Furia
+attack.JG57.1.text=Lanza 3 monedas. Este ataque hace 10 puntos de daño multiplicado por la cantidad de caras.
+attack.JG57.2.name=Llamado a la Familia
+attack.JG57.2.text=Busca al Pokémon Básico llamado Nidoran♀ o Nidoran ♂ y colócalo en tu Banca. Después baraja tu mazo.
 //Oddish
 card.JG58.name=Oddish
-attack.JG58.1.name=Stun Spore
-attack.JG58.1.text=Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
-attack.JG58.2.name=Sprout
-attack.JG58.2.text=Search your deck for a Basic Pokémon named Oddish and put it onto your Bench. Shuffle your deck afterward.
+attack.JG58.1.name=Paralizador
+attack.JG58.1.text=Lanza una moneda. Si sale cara, el Pokémon Defensor pasa a estar Paralizado.
+attack.JG58.2.name=Brotar
+attack.JG58.2.text=Busca en tu mazo un Pokémon Básico llamado Oddish y ponlo en tu Banca. Baraja tu mazo después.
 //Paras
 card.JG59.name=Paras
-attack.JG59.1.name=Scratch
+attack.JG59.1.name=Arañazo
 attack.JG59.1.text=
-attack.JG59.2.name=Spore
-attack.JG59.2.text=The Defending Pokémon is now Asleep.
+attack.JG59.2.name=Espora
+attack.JG59.2.text=El Pokémon a la Defensa pasa a estar Dormido.
 //Pikachu
 card.JG60.name=Pikachu
-attack.JG60.1.name=Spark
-attack.JG60.1.text=If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it.
+attack.JG60.1.name=Chispa
+attack.JG60.1.text=Si tu oponente tiene algún Pokemon en la banca, elige alguno de ellos y este ataque hace 10 puntos de daño a él.
 //Rhyhorn
 card.JG61.name=Rhyhorn
-attack.JG61.1.name=Leer
-attack.JG61.1.text=Flip a coin. If heads, the Defending Pokémon can't attack Rhyhorn during your opponent's next turn.
-attack.JG61.2.name=Horn Attack
+attack.JG61.1.name=Malicioso
+attack.JG61.1.text=Lanza una moneda. Si sale cara el Pokémon a la defensa no puede atacar a Rhyhorn durante el próximo turno de tu rival.
+attack.JG61.2.name=Cornada
 attack.JG61.2.text=
 //Spearow
 card.JG62.name=Spearow
-attack.JG62.1.name=Peck
+attack.JG62.1.name=Picotazo
 attack.JG62.1.text=
-attack.JG62.2.name=Mirror Move
-attack.JG62.2.text=If Spearow was attacked last turn, do the final result of that attack on Spearow to the Defending Pokémon.
+attack.JG62.2.name=Movimiento Espejo
+attack.JG62.2.text=Si Spearow fue atacado en el último turno, el resultado final de ese ataque pasa de Spearow al Pokémon Defensor.
 //Venonat
 card.JG63.name=Venonat
-attack.JG63.1.name=Stun Spore
-attack.JG63.1.text=Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
-attack.JG63.2.name=Leech Life
-attack.JG63.2.text=Heal Venonat equal to the damage done to the Defending Pokémon.
+attack.JG63.1.name=Paralizador
+attack.JG63.1.text=Lanza una moneda. Si sale cara el Pokémon a la defensa pasa a estar paralizado.
+attack.JG63.2.name=Chupavidas
+attack.JG63.2.text=Cura a Venonat igual a todo el daño hecho al Pokémon a la defensa.
 
 //Jungle Set - Trainer Cards
 card.JG64.name=Poké Ball
-card.JG64.text=Flip a coin. If heads, you may search your deck for any Basic Pokémon or Evolution card. Show that card to your opponent, and put it into your hand. Shuffle your deck afterward.
+card.JG64.text=Lanza una moneda. Si sale cara, puedes buscar en tu mazo cualquier pokémon básico o carta de evolución. Muestra esa carta a su oponente, luego ponla en tu mano. Baraja tu mazo después.
 
 //Jungle Set - Decks
-deck.waterBlast.name=Water Blast
-deck.powerReserve.name=Power Reserve
+deck.waterBlast.name=Trombo de Agua
+deck.powerReserve.name=Reserva de Poder
+
+//Prerelease cards
+card.PR1.name=Rayquaza
+attack.PR1.1.name=Rugido Celestial
+attack.PR1.1.text=Descarta las 3 primeras cartas de tu baraja. Si entre esas cartas hay cartas de Energía, únelas a este Pokémon.
+attack.PR1.2.name=Explosión Dragón
+attack.PR1.2.text=Descarta todas las Energías Básicas de Fuego o todas las Energías Básicas de Relámpago unidas a este Pokémon. Este ataque hace 60 puntos de daño por cada carta de Energía que hayas descartado.
