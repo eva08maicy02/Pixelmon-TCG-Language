@@ -1,0 +1,1085 @@
+gui.guiPack.title=Du hast ein Pack geöffnet!
+
+itemGroup.tabTCG1=Pixelmon Sammelkartenspiel
+itemGroup.tabTCG2=Pixelmon TCG Druckmünzen
+
+item.card.name=Pixelmon-Karte
+item.card_introduction.name=Willkommens-Karte
+item.pack.name=Booster-Pack
+item.binder.name=Kartenmappe
+item.coin.name=Münze
+item.card_back.name=Rückseite
+item.deck.name=Deck-Kasten
+item.deck.unopened=ungeöffnet
+item.deck.locked=gesperrt
+item.board.name=Spielfeld
+item.sound_mod.name=Klang-Mod
+
+item.card_printer.name=Kartendrucker
+item.battle_controller.name=PixelmonTCG KampfBox 4000
+item.rulebook.name=TCG Regelbuch
+item.battle_rule.name=TCG Kampfregeln
+item.battle_spectator.name=Kampf TV
+
+battleRule.instruction=Rechtsklicke eine KampfBox, um ihre Regeln zu ändern!
+battleRule.setRule=Setze Regeln für die KampfBox
+battleRule.deckSize=Deckgröße
+battleRule.prizeCount=Anzahl der Preise
+battleRule.setStartingCommands=Befehle, wenn der Kampf beginnt
+battleRule.setEndingCommands=Befehle, wenn der Kampf endet
+battleRule.emptyCommands=Keine Befehle gesetzt
+battleRule.endBattle=Kampf beenden
+
+battleSpectator.title=Zuschauer
+battleSpectator.controllerLocation=Position der KampfBox
+battleSpectator.playerIndex=Spieler-Index
+battleSpectator.foundController=KampfBox gefunden
+
+achievement.welcome=Willkommen!
+achievement.welcome.desc=Willkommen beim Pixelmon Sammelkartenspiel!
+
+achievement.openPack=TCG Pack-Öffnung
+achievement.openPack.desc=Öffne deinen ersten Sammelkarten-Booster
+achievement.binderGet=TCG Sammler Anfänger
+achievement.binderGet.desc=Beschaffe Dir eine Kartenmappe
+achievement.binderQuarter=TCG Sammler Rookie
+achievement.binderQuarter.desc=Fülle deine Mappe zu einem Viertel
+achievement.binderHalf=TCG Sammler Amateur
+achievement.binderHalf.desc=Fülle deine Mappe zur Hälfte
+achievement.binderFull=TCG Sammler Profi
+achievement.binderFull.desc=Fülle deine Kartenmappe
+achievement.binderFullRare=TCG Sammler Ultra
+achievement.binderFullRare.desc=Fülle eine Kartenmappe nur mit Seltenen Karten oder höher
+achievement.binderFullSecretRare=Göttlicher TCG Sammler
+achievement.binderFullSecretRare.desc=Fülle eine Kartenmappe nur mit Limitierten Karten
+
+achievement.obtainDeck=TCG Deck-Ersteller
+achievement.obtainDeck.desc=Beschaffe dir einen leeren Deck-Slot
+achievement.finishDeck=TCG Kampfbereit
+achievement.finishDeck.desc=Vollende und benenne ein Deck
+
+achievement.trade1=TCG Karten-Tauscher
+achievement.trade1.desc=Tausche 1 Karte
+achievement.trade5=TCG Karten-Händler
+achievement.trade5.desc=Tausche 5 Karten
+achievement.trade20=TCG Karten-Dealer
+achievement.trade20.desc=Tausche 20 Karten
+achievement.trade50=TCG Karten-Makler
+achievement.trade50.desc=Tausche 50 Karten
+achievement.trade250=TCG Karten-Gigant
+achievement.trade250.desc=Tausche 250 Karten
+
+achievement.obtainCardBack=TCG Künstler
+achievement.obtainCardBack.desc=Erhalte eine spezielle Kartenrückseite
+achievement.obtainCoinset=TCG Schatzmeister
+achievement.obtainCoinset.desc=Erhalte ein spezielles Münzenset
+achievement.obtainBoard=TCG Weltenwechsler
+achievement.obtainBoard.desc=Erhalte ein spezielles Spielfeld
+achievement.obtainRulebook=TCG Regelmeister
+achievement.obtainRulebook.desc=Erhalte ein spezielles Regelbuch
+
+achievement.obtainCommon=Häufige Karte erhalten!
+achievement.obtainCommon.desc=Erhalte eine Häufige Karte
+achievement.obtainUncommon=Ungewöhnliche Karte erhalten!
+achievement.obtainUncommon.desc=Erhalte eine Ungewöhnliche Karte
+achievement.obtainRare=Seltene Karte erhalten!
+achievement.obtainRare.desc=Erhalte eine Seltene Karte
+achievement.obtainSuperRare=Holo Karte erhalten!
+achievement.obtainSuperRare.desc=Erhalte eine Holo Karte
+achievement.obtainUltraRare=Ultra Karte erhalten!
+achievement.obtainUltraRare.desc=Erhalte eine Ultra Karte
+achievement.obtainSecretRare=Limitierte Karte erhalten!
+achievement.obtainSecretRare.desc=Erhalte eine Limitierte Karte
+
+achievement.obtainSeal=Orichalcos Entfesselt
+achievement.obtainSeal.desc=Erhalte eine 'Siegel des Orichalcos' Karte
+achievement.obtainShard=Orichalcos Gebunden
+achievement.obtainShard.desc=Erhalte ein 'Scherbe des Orichalcum' Item
+achievement.useShard=Gebrochenes Siegel
+achievement.useShard.desc=Breche ein aktives 'Siegel des Orichalcos' mit einer 'Scherbe des Orichalcum'
+
+item.card.blank.grass.common.name=Leere Pflanzen Karte (häufig)
+item.card.blank.grass.uncommon.name=§2§2Leere Pflanzen Karte (ungewöhnlich)
+item.card.blank.grass.rare.name=§9Leere Pflanzen Karte (selten)
+item.card.blank.grass.holo_rare.name=§5Leere Pflanzen Karte (holo)
+item.card.blank.grass.ultra_rare.name=§6Leere Pflanzen Karte (ultra)
+item.card.blank.grass.secret_rare.name=§bLeere Pflanzen Karte (limitiert)
+item.card.blank.fire.common.name=Leere Feuer Karte (häufig)
+item.card.blank.fire.uncommon.name=§2§2Leere Feuer Karte (ungewöhnlich)
+item.card.blank.fire.rare.name=§9Leere Feuer Karte (selten)
+item.card.blank.fire.holo_rare.name=§5Leere Feuer Karte (holo)
+item.card.blank.fire.ultra_rare.name=§6Leere Feuer Karte (ultra)
+item.card.blank.fire.secret_rare.name=§bLeere Feuer Karte (limitiert)
+item.card.blank.water.common.name=Leere Wasser Karte (häufig)
+item.card.blank.water.uncommon.name=§2§2Leere Wasser Karte (ungewöhnlich)
+item.card.blank.water.rare.name=§9Leere Wasser Karte (selten)
+item.card.blank.water.holo_rare.name=§5Leere Wasser Karte (holo)
+item.card.blank.water.ultra_rare.name=§6Leere Wasser Karte (ultra)
+item.card.blank.water.secret_rare.name=§bLeere Wasser Karte (limitiert)
+item.card.blank.lightning.common.name=Leere Elektro Karte (häufig)
+item.card.blank.lightning.uncommon.name=§2Leere Elektro Karte (ungewöhnlich)
+item.card.blank.lightning.rare.name=§9Leere Elektro Karte (selten)
+item.card.blank.lightning.holo_rare.name=§5Leere Elektro Karte (holo)
+item.card.blank.lightning.ultra_rare.name=§6Leere Elektro Karte (ultra)
+item.card.blank.lightning.secret_rare.name=§bLeere Elektro Karte (limitiert)
+item.card.blank.fighting.common.name=Leere Kampf Karte (häufig)
+item.card.blank.fighting.uncommon.name=§2Leere Kampf Karte (ungewöhnlich)
+item.card.blank.fighting.rare.name=§9Leere Kampf Karte (selten)
+item.card.blank.fighting.holo_rare.name=§5Leere Kampf Karte (holo)
+item.card.blank.fighting.ultra_rare.name=§6Leere Kampf Karte (ultra)
+item.card.blank.fighting.secret_rare.name=§bLeere Kampf Karte (limitiert)
+item.card.blank.psychic.common.name=Leere Psycho Karte (häufig)
+item.card.blank.psychic.uncommon.name=§2Leere Psycho Karte (ungewöhnlich)
+item.card.blank.psychic.rare.name=§9Leere Psycho Karte (selten)
+item.card.blank.psychic.holo_rare.name=§5Leere Psycho Karte (holo)
+item.card.blank.psychic.ultra_rare.name=§6Leere Psycho Karte (ultra)
+item.card.blank.psychic.secret_rare.name=§bLeere Psycho Karte (limitiert)
+item.card.blank.colorless.common.name=Leere Farblose Karte (häufig)
+item.card.blank.colorless.uncommon.name=§2Leere Farblose Karte (ungewöhnlich)
+item.card.blank.colorless.rare.name=§9Leere Farblose Karte (selten)
+item.card.blank.colorless.holo_rare.name=§5Leere Farblose Karte (holo)
+item.card.blank.colorless.ultra_rare.name=§6Leere Farblose Karte (ultra)
+item.card.blank.colorless.secret_rare.name=§bLeere Farblose Karte (limitiert)
+item.card.blank.darkness.common.name=Leere Finsternis Karte (häufig)
+item.card.blank.darkness.uncommon.name=§2Leere Finsternis Karte (ungewöhnlich)
+item.card.blank.darkness.rare.name=§9Leere Finsternis Karte (selten)
+item.card.blank.darkness.holo_rare.name=§5Leere Finsternis Karte (holo)
+item.card.blank.darkness.ultra_rare.name=§6Leere Finsternis Karte (ultra)
+item.card.blank.darkness.secret_rare.name=§bLeere Finsternis Karte (limitiert)
+item.card.blank.metal.common.name=Leere Metall Karte (häufig)
+item.card.blank.metal.uncommon.name=§2Leere Metall Karte (ungewöhnlich)
+item.card.blank.metal.rare.name=§9Leere Metall Karte (selten)
+item.card.blank.metal.holo_rare.name=§5Leere Metall Karte (holo)
+item.card.blank.metal.ultra_rare.name=§6Leere Metall Karte (ultra)
+item.card.blank.metal.secret_rare.name=§bLeere Metall Karte (limitiert)
+item.card.blank.dragon.common.name=Leere Drachen Karte (häufig)
+item.card.blank.dragon.uncommon.name=§2Leere Drachen Karte (ungewöhnlich)
+item.card.blank.dragon.rare.name=§9Leere Drachen Karte (selten)
+item.card.blank.dragon.holo_rare.name=§5Leere Drachen Karte (holo)
+item.card.blank.dragon.ultra_rare.name=§6Leere Drachen Karte (ultra)
+item.card.blank.dragon.secret_rare.name=§bLeere Drachen Karte (limitiert)
+item.card.blank.fairy.common.name=Leere Feen Karte (häufig)
+item.card.blank.fairy.uncommon.name=§2Leere Feen Karte (ungewöhnlich)
+item.card.blank.fairy.rare.name=§9Leere Feen Karte (selten)
+item.card.blank.fairy.holo_rare.name=§5Leere Feen Karte (holo)
+item.card.blank.fairy.ultra_rare.name=§6Leere Feen Karte (ultra)
+item.card.blank.fairy.secret_rare.name=§bLeere Feen Karte (limitiert)
+
+item.blankToken.name=Druckmünze
+
+item.token.fire.uncommon.name=§2Feuermünze (ungewöhnlich)
+item.token.fire.rare.name=§9Feuermünze (selten)
+item.token.fire.holo_rare.name=§5Feuermünze (holo)
+item.token.fire.ultra_rare.name=§6Feuermünze (ultra)
+
+item.token.water.uncommon.name=§2Wassermünze (ungewöhnlich)
+item.token.water.rare.name=§9Wassermünze (selten)
+item.token.water.holo_rare.name=§5Wassermünze (holo)
+item.token.water.ultra_rare.name=§6Wassermünze (ultra)
+
+item.token.grass.uncommon.name=§2Pflanzenmünze (ungewöhnlich)
+item.token.grass.rare.name=§9Pflanzenmünze (selten)
+item.token.grass.holo_rare.name=§5Pflanzenmünze (holo)
+item.token.grass.ultra_rare.name=§6Pflanzenmünze (ultra)
+
+item.token.lightning.uncommon.name=§2Elektromünze (ungewöhnlich)
+item.token.lightning.rare.name=§9Elektromünze (selten)
+item.token.lightning.holo_rare.name=§5Elektromünze (holo)
+item.token.lightning.ultra_rare.name=§6Elektromünze (ultra)
+
+item.token.psychic.uncommon.name=§2Psychomünze (ungewöhnlich)
+item.token.psychic.rare.name=§9Psychomünze (selten)
+item.token.psychic.holo_rare.name=§5Psychomünze (holo)
+item.token.psychic.ultra_rare.name=§6Psychomünze (ultra)
+
+item.token.fighting.uncommon.name=§2Kampfmünze (ungewöhnlich)
+item.token.fighting.rare.name=§9Kampfmünze (selten)
+item.token.fighting.holo_rare.name=§5Kampfmünze (holo)
+item.token.fighting.ultra_rare.name=§6Kampfmünze (ultra)
+
+item.token.colorless.uncommon.name=§2Farblose Münze (ungewöhnlich)
+item.token.colorless.rare.name=§9Farblose Münze (selten)
+item.token.colorless.holo_rare.name=§5Farblose Münze (holo)
+item.token.colorless.ultra_rare.name=§6Farblose Münze (ultra)
+
+item.token.metal.uncommon.name=§2Metallmünze (ungewöhnlich)
+item.token.metal.rare.name=§9Metallmünze (selten)
+item.token.metal.holo_rare.name=§5Metallmünze (holo)
+item.token.metal.ultra_rare.name=§6Metallmünze (ultra)
+
+item.token.darkness.uncommon.name=§2Finsternismünze (ungewöhnlich)
+item.token.darkness.rare.name=§9Finsternismünze (selten)
+item.token.darkness.holo_rare.name=§5Finsternismünze (holo)
+item.token.darkness.ultra_rare.name=§6Finsternismünze (ultra)
+
+item.token.dragon.uncommon.name=§2Drachenmünze (ungewöhnlich)
+item.token.dragon.rare.name=§9Drachenmünze (selten)
+item.token.dragon.holo_rare.name=§5Drachenmünze (holo)
+item.token.dragon.ultra_rare.name=§6Drachenmünze (ultra)
+
+item.token.fairy.uncommon.name=§2Feenmünze (ungewöhnlich)
+item.token.fairy.rare.name=§9Feenmünze (selten)
+item.token.fairy.holo_rare.name=§5Feenmünze (holo)
+item.token.fairy.ultra_rare.name=§6Feenmünze (ultra)
+
+
+// General battle
+battle.first=Du wirst beginnen.
+battle.second=Dein Gegner wird beginnen.
+battle.selector.newactive=Wähle ein neues aktives Pokemon
+battle.guide.settingup.title=Vorbereitungsphase
+battle.guide.settingup.1=1. Bestimme ein aktives Pokemon
+battle.guide.settingup.2=2. Lege Pokemon auf die Bank
+battle.guide.settingup.3=3. Drücke Start
+battle.guide.settingup.4=4. Warte auf deinen Gegner!
+battle.selector.prize=Wähle eine Preiskarte
+battle.selector.prize.close=Zum Schließen erneut drücken
+
+// Attack Effects
+attack.effect.changeresistance.selector=Wähle neue Resistenz
+attack.effect.changeweakness.selector=Wähle neue Schwäche
+attack.effect.switch.byopp=Wähle neues aktives Pokemon
+
+// Ability Effects
+ability.pokemonpower=Pokémon Power
+ability.pokemonbody=Pokémon Body
+ability.damageswap.selector.from=Schaden entfernen von
+ability.damageswap.selector.to=Schaden legen auf
+ability.buzzap.selector.chooseenergy=Wähle Energie-Typ
+ability.buzzap.selector.chooseattach=Wähle ein Pokemon zum Anlegen
+ability.raindance.selector.chooseattach=Wähle Pokemon zum Anlegen der Wasser-Energie
+ability.energytransfer.selector.from=Blatt-Energie entfernen von
+ability.energytransfer.selector.to=Blatt-Energie anlegen an
+ability.shift.selector.change=Typ ändern auf
+ability.heal.selector.pokemon=Heile 10 Schaden
+
+// Trainer Effects
+trainer.pokedex.selector.1=Wähle erste (oberste) Karte
+trainer.pokedex.selector.2=Wähle zweite Karte
+trainer.pokedex.selector.3=Wähle dritte Karte
+trainer.pokedex.selector.4=Wähle vierte Karte
+trainer.pokedex.selector.5=Wähle fünfte Karte
+trainer.pokemontrader.selector.reveal=Gegner hat Pokemon zwischen Deck und Hand getauscht
+trainer.maintenance.selector.choose=Mische 2 Karten von der Hand ins Deck
+
+//Base Set
+set.BS.name=Basis-Set
+
+//Base Set - Pokemon and Attacks
+//Alakazam
+card.BS1.name=Simsala
+ability.BS1.name=Schadenstausch
+ability.BS1.text=Bist Du am Zug, kannst Du beliebig oft eine Schadensmarke von einem Deiner Pokémon auf ein anderes verschieben, solange Du dieses Pokémon nicht kampfunfähig machst. Nicht einsetzbar bei Schlaf, Verwirrung oder Paralyse.
+attack.BS1.1.name=Konfustrahl
+attack.BS1.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon verwirrt.
+//Blastoise
+card.BS2.name=Turtok
+ability.BS2.name=Regentanz
+ability.BS2.text=Bist Du am Zug, kannst Du beliebig oft eine Wasser-Energie auf eines Deiner Pokémon ablegen. Nicht einsetzbar bei Schlaf, Verwirrung oder Paralyse.
+attack.BS2.1.name=Hydropumpe
+attack.BS2.1.text=Fügt 10 weitere Schadenspunkte für jede auf Turtok abgelegte Wasser-Energie zu, die nicht zum Zahlen der Energiekosten für diesen Angriff verwendet wurde, bis zu 20 zusätzlichen Schadenspunkten.
+//Chansey
+card.BS3.name=Chaneira
+attack.BS3.1.name=Zähneknirschen
+attack.BS3.1.text=Wirf eine Münze. Bei „Kopf“ kannst du den Schaden, der Chaneira während des nächsten Zuges zugefügt wird, verhindern. (Alle anderen Auswirkungen von Angriffen finden immer noch statt.)
+attack.BS3.2.name=Austeiler
+attack.BS3.2.text=Chaneira fügt sich selbst 80 Schadenspunkte zu.
+//Charizard
+card.BS4.name=Glurak
+ability.BS4.name=Energie verbrennen
+ability.BS4.text=Bist du am Zug, kannst du beliebig oft alle auf Glurak abgelegte Energie für den Rest des Zuges in Feuer-Energie verwandeln. Nicht einsetzbar bei Schlaf, Verwirrung oder Paralyse.
+attack.BS4.1.name=Feuerwirbel
+attack.BS4.1.text=Entferne 2 auf Glurak abgelegte Energiekarten.
+//Clefairy
+card.BS5.name=Piepi
+attack.BS5.1.name=Gesang
+attack.BS5.1.text=Wirf eine Münze. Bei „Kopf“ schläft das verteidigende Pokémon jetzt.
+attack.BS5.2.name=Metronom
+attack.BS5.2.text=Kopiere einen der Angriffe des verteidigenden Pokémon, außer seinen Energiekosten und was sonst noch für diesen Angriff erforderlich ist, wie z.B. das Entfernen von Energiekarten.
+//Gyarados
+card.BS6.name=Garados
+attack.BS6.1.name=Drachenwut
+attack.BS6.2.name=Blubbstrahl
+attack.BS6.2.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon gelähmt.
+//Hitmonchan
+card.BS7.name=Hitmonchan
+attack.BS7.1.name=Boxschlag
+attack.BS7.2.name=Spezialschlag
+//Machamp
+card.BS8.name=Machomei
+ability.BS8.name=Gegenschlag
+ability.BS8.text=Immer wenn der gegnerische Angriff Machomei Schaden zufügt, fügt diese Fähigkeit dem angreifenden Pokémon 10 Schadenspunkte zu. Nicht einsetzbar bei Schlaf, Verwirrung oder Paralyse.
+attack.BS8.1.name=Geowurf
+//Magneton
+card.BS9.name=Magneton
+attack.BS9.1.name=Donnerwelle
+attack.BS9.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon gelähmt.
+attack.BS9.2.name=Finale
+attack.BS9.2.text=Fügt jedem Pokémon auf der Bank eines jeden Spielers 20 Schadenspunkte zu. Magneton fügt sich selbst 80 Schadenspunkte zu.
+//Mewtwo
+card.BS10.name=Mewtu
+attack.BS10.1.name=Psychokinese
+attack.BS10.1.text=Fügt 10 Schadenspunkte plus 10 weitere Schadenspunkte für jede auf dem verteidigenden Pokémon abgelegte Energie zu.
+attack.BS10.2.name=Barriere
+attack.BS10.2.text=Entferne eine auf Mewtu abgelegte Psycho-Energie. Verhindere während des nächsten gegnerischen Zugs alle Auswirkungen von Angriffen auf Mewtu (einschließlich der Schadenspunkte).
+//Nidoking
+card.BS11.name=Nidoking
+attack.BS11.1.name=Prügel
+attack.BS11.1.text=Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 10 weitere Schadenspunkte zu; bei „Zahl“ fügt Nidoking sich selbst 10 Schadenspunkte zu.
+attack.BS11.2.name=Toxin
+attack.BS11.2.text=Das verteidigende Pokémon ist vergiftet. Es erleidet 20 Vergiftungsschadenspunkte anstatt 10 nach dem Zug jedes Spielers.
+//Ninetales
+card.BS12.name=Vulnona
+attack.BS12.1.name=Lockvogel
+attack.BS12.1.text=Wähle ein Pokémon auf der Bank deines Gegners und tausche es mit dem verteidigenden Pokémon aus.
+attack.BS12.2.name=Feuersturm
+attack.BS12.2.text=Entferne eine auf Vulnona abgelegte Feuer-Energie.
+//Poliwrath
+card.BS13.name=Quappo
+attack.BS13.1.name=Aquaknarre
+attack.BS13.1.text=Fügt 10 weitere Schadenspunkte für jede auf Quappo abgelegte Wasser-Energie zu, die nicht zum Zahlen der Energiekosten für diesen Angriff verwendet wurde, bis zu 20 zusätzlichen Schadenspunkten.
+attack.BS13.2.name=Strudel
+attack.BS13.2.text=Wähle eine auf dem verteidigenden Pokémon abgelegte Energie und entferne sie.
+//Raichu
+card.BS14.name=Raichu
+attack.BS14.1.name=Agilität
+attack.BS14.1.text=Wirf eine Münze. Bei „Kopf“ verhindere während des nächsten gegnerischen Zuges alle Auswirkungen von Attacken auf Raichu (einschließlich der Schadenspunkte).
+attack.BS14.2.name=Donner
+attack.BS14.2.text=Wirf eine Münze. Bei „Zahl“ fügt Raichu sich selbst 30 Schadenspunkte zu.
+//Venusaur
+card.BS15.name=Bisaflor
+ability.BS15.name=Energieverteilung
+ability.BS15.text=Bist Du am Zug, kannst du beliebig oft eine auf einem Deiner Pokémon abgelegte Pflanzen-Energie nehmen und auf ein anderes legen. Nicht einsetzbar bei Schlaf, Verwirrung oder Paralyse.
+attack.BS15.1.name=Solarstrahl
+//Zapdos
+card.BS16.name=Zapdos
+attack.BS16.1.name=Donner
+attack.BS16.1.text=Wirf eine Münze. Bei „Zahl“ fügt Zapdos sich selbst 30 Schadenspunkte zu.
+attack.BS16.2.name=Donnerblitz
+attack.BS16.2.text=Entferne alle auf Zapdos abgelegten Energiekarten.
+//Beedrill
+card.BS17.name=Bibor
+attack.BS17.1.name=Duonadel
+attack.BS17.1.text=Wirf 2 Münzen. Dieser Angriff fügt jedesmal, wenn die Münze „Kopf“ zeigt, 30 Schadenspunkte zu.
+attack.BS17.2.name=Giftstachel
+attack.BS17.2.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon vergiftet.
+//Dragonair
+card.BS18.name=Dragonir
+attack.BS18.1.name=Slam
+attack.BS18.1.text=Wirf 2 Münzen. Dieser Angriff fügt jedesmal, wenn die Münze „Kopf“ zeigt, 30 Schadenspunkte zu.
+attack.BS18.2.name=Hyperstrahl
+attack.BS18.2.text=Wähle eine auf dem verteidigenden Pokémon abgelegte Energie und entferne sie.
+//Dugtrio
+card.BS19.name=Digdri
+attack.BS19.1.name=Schlitzer
+attack.BS19.2.name=Erdbeben
+attack.BS19.2.text=Fügt jedem Pokémon auf Deiner Bank 10 Schadenspunkte zu.
+//Electabuzz
+card.BS20.name=Elektek
+attack.BS20.1.name=Donnerschock
+attack.BS20.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon gelähmt.
+attack.BS20.2.name=Donnerschlag
+attack.BS20.2.text=Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 10 weitere Schadenspunkte zu; bei „Zahl“ fügt Elektek sich selbst 10 Schadenspunkte zu.
+//Electrode
+card.BS21.name=Lektrobal
+ability.BS21.name=Summzapp
+ability.BS21.text=Jederzeit während Deines Zugs kannst Du Lektrobal kampfunfähig machen und auf eines Deiner anderen Pokémon ablegen. Falls du das tust, wähle einen Energietyp. Lektrobal ist eine Energiekarte, die 2 Energien dieses Typs liefert. Nicht einsetzbar bei Schlaf, Verwirrung oder Paralyse.
+attack.BS21.1.name=Elektroschock
+attack.BS21.1.text=Wirf eine Münze. Bei „Zahl“ fügt Lektrobal sich selbst 10 Schadenspunkte zu.
+//Pidgeotto
+card.BS22.name=Tauboga
+attack.BS22.1.name=Wirbelwind
+attack.BS22.1.text=Dein Gegner tauscht eines der Pokémon auf seiner Bank mit dem verteidigenden Pokémon aus.
+attack.BS22.2.name=Spiegeltrick
+attack.BS22.2.text=Falls Tauboga im letzten Zug angegriffen wurde, füge dem verteidigenden Pokémon Schadenspunkte in Höhe der Endstärke dieses Angriffs zu.
+//Arcanine
+card.BS23.name=Arcanine
+attack.BS23.1.name=Flammenwurf
+attack.BS23.1.text=Entferne eine auf Arkani abgelegte Feuer-Energie.
+attack.BS23.2.name=Bodycheck
+attack.BS23.2.text=Arkani fügt sich selbst 30 Schadenspunkte zu.
+//Charmeleon
+card.BS24.name=Glutexo
+attack.BS24.1.name=Schlitzer
+attack.BS24.2.name=Flammenwurf
+attack.BS24.2.text=Entferne eine auf Glutexo abgelegte Feuer-Energie.
+//Dewgong
+card.BS25.name=Jugong
+attack.BS25.1.name=Aurorastrahl
+attack.BS25.2.name=Eisstrahl
+attack.BS25.2.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon gelähmt.
+//Dratini
+card.BS26.name=Dratini
+attack.BS26.1.name=Pfund
+//Farfetch'd
+card.BS27.name=Farfetch'd
+attack.BS27.1.name=Lauchschlag
+attack.BS27.1.text=Wirf eine Münze. Bei „Zahl“ hat dieser Angriff keine Auswirkung. In jedem Fall kannst Du diesen Angriff solange nicht mehr einsetzen, wie Porenta im Spiel bleibt.
+attack.BS27.2.name=Topfschmetterer
+//Growlithe
+card.BS28.name=Fukano
+attack.BS28.1.name=Flackern
+//Haunter
+card.BS29.name=Alpollo
+attack.BS29.1.name=Hypnose
+attack.BS29.1.text=Das verteidigende Pokémon schläft jetzt.
+attack.BS29.2.name=Traumfresser
+attack.BS29.2.text=Du kannst diesen Angriff nur dann einsetzen, wenn das verteidigende Pokémon schläft.
+//Ivysaur
+card.BS30.name=Bisaknosp
+attack.BS30.1.name=Rankenhieb
+attack.BS30.2.name=Giftpuder
+attack.BS30.2.text=Das verteidigende Pokémon ist vergiftet.
+//Jynx
+card.BS31.name=Rossana
+attack.BS31.1.name=Duplexhieb
+attack.BS31.1.text=Wirf 2 Münzen. Dieser Angriff fügt jedesmal, wenn die Münze „Kopf“ zeigt, 10 Schadenspunkte zu.
+attack.BS31.2.name=Meditation
+attack.BS31.2.text=Fügt 10 weitere Schadenspunkte für jede auf dem verteidigenden Pokémon abgelegte Schadensmarke zu.
+//Kadabra
+card.BS32.name=Kadabra
+attack.BS32.1.name=Erholung
+attack.BS32.1.text=Entferne eine auf Kadabra abgelegte Psycho-Energie. Entferne alle Schadensmarken von Kadabra.
+attack.BS32.2.name=Super-Psychoschlag
+//Kakuna
+card.BS33.name=Kokuna
+attack.BS33.1.name=Härtner
+attack.BS33.1.text=Wirf eine Münze. Bei „Kopf“ verhindere allen Schaden, der Kokuna während des nächsten Zugs Deines Gegners zugefügt wird. (Alle anderen Auswirkungen von Angriffen finden immer noch statt).
+attack.BS33.2.name=Giftpuder
+attack.BS33.2.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon vergiftet.
+//Machoke
+card.BS34.name=Maschock
+attack.BS34.1.name=Karateschlag
+attack.BS34.1.text=Fügt 10 Schadenspunkte weniger für jede Schadensmarke auf Maschock zu.
+attack.BS34.2.name=Überroller
+attack.BS34.2.text=Maschock fügt sich selbst 20 Schadenspunkte zu.
+//Magikarp
+card.BS35.name=Karpador
+attack.BS35.1.name=Tackle
+attack.BS35.2.name=Flegel
+attack.BS35.2.text=Fügt 10 Schadenspunkte mal der Anzahl der auf Karpador abgelegten Schadensmarken zu.
+//Magmar
+card.BS36.name=Magmar
+attack.BS36.1.name=Feuerschlag
+attack.BS36.2.name=Flammenwurf
+attack.BS36.2.text=Entferne eine auf Magmar abgelegte Feuer-Energie.
+//Nidorino
+card.BS37.name=Nidorino
+attack.BS37.1.name=Doppelkick
+attack.BS37.1.text=Wirf 2 Münzen. Dieser Angriff fügt jedesmal, wenn die Münze „Kopf“ zeigt, 30 Schadenspunkte zu.
+attack.BS37.2.name=Hornbohrer
+//Poliwhirl
+card.BS38.name=Quaputzi
+attack.BS38.1.name=Amnesie
+attack.BS38.1.text=Wähle einen der Angriffe des verteidigenden Pokémon. Dieses Pokémon kann diesen Angriff während des nächsten gegnerischen Zugs nicht einsetzen.
+attack.BS38.2.name=Duplexhieb
+attack.BS38.2.text=Wirf 2 Münzen. Dieser Angriff fügt jedesmal, wenn die Münze „Kopf“ zeigt, 30 Schadenspunkte zu.
+//Porygon
+card.BS39.name=Porygon
+attack.BS39.1.name=Umwandlung 1
+attack.BS39.1.text=Falls das verteidigende Pokémon eine Schwäche hat, kannst Du sie auf einen Typ Deiner Wahl (außer Farblos) ändern.
+attack.BS39.2.name=Umwandlung 2
+attack.BS39.2.text=Ändere Porygons Resistenz auf einen Typ Deiner Wahl (außer Farblos).
+//Raticate
+card.BS40.name=Rattikarl
+attack.BS40.1.name=Biss
+attack.BS40.2.name=Superzahn
+attack.BS40.2.text=Fügt dem verteidigenden Pokémon Schadenspunkte in Höhe der Hälfte seiner verbleibenden KP (auf die nächste Zehnerstelle aufgerundet) zu.
+//Seel
+card.BS41.name=Jurob
+attack.BS41.1.name=Kopfnuss
+//Wartortle
+card.BS42.name=Schillok
+attack.BS42.1.name=Panzerschutz
+attack.BS42.1.text=Wirf eine Münze. Bei „Kopf“ verhindere allen Schaden, der Schillok während des nächsten Zugs Deines Gegners zugefügt wird. (Alle anderen Auswirkungen von Angriffen finden immer noch statt.)
+attack.BS42.2.name=Biss
+//Abra
+card.BS43.name=Abra
+attack.BS43.1.name=Psychoschock
+attack.BS43.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon gelähmt.
+//Bulbasaur
+card.BS44.name=Bisasam
+attack.BS44.1.name=Schmarotzer
+attack.BS44.1.text=Wenn dieser Angriff Schaden macht, kannst Du eine Schadensmarke von Bisasam entfernen.
+//Caterpie
+card.BS45.name=Raupy
+attack.BS45.1.name=Fadenschuss
+attack.BS45.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon gelähmt.
+//Charmander
+card.BS46.name=Glumanda
+attack.BS46.1.name=Kratzer
+attack.BS46.2.name=Glut
+attack.BS46.2.text=Entferne eine auf Glumanda abgelegte Feuer-Energie.
+//Diglett
+card.BS47.name=Digda
+attack.BS47.1.name=Schaufler
+attack.BS47.2.name=Schlammbad
+//Doduo
+card.BS48.name=Dodu
+attack.BS48.1.name=Furienschlag
+attack.BS48.1.text=Wirf 2 Münzen. Dieser Angriff fügt jedesmal, wenn die Münze „Kopf“ zeigt, 10 Schadenspunkte zu.
+//Drowzee
+card.BS49.name=Traumato
+attack.BS49.1.name=Pfund
+attack.BS49.2.name=Konfustrahl
+attack.BS49.2.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon verwirrt.
+//Gastly
+card.BS50.name=Nebulak
+attack.BS50.1.name=Schlafgas
+attack.BS50.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon schlafend.
+attack.BS50.2.name=Schicksalsband
+attack.BS50.2.text=Entferne eine auf Nebulak abgelegte Psycho-Energie. Falls ein Pokémon Nebulak während des nächsten gegnerischen Zugs kampfunfähig macht, mache dieses Pokémon kampfunfähig.
+//Koffing
+card.BS51.name=Smogon
+attack.BS51.1.name=Fäulnisgas
+attack.BS51.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon vergiftet; bei „Zahl“ verwirrt.
+//Machop
+card.BS52.name=Machollo
+attack.BS52.1.name=Kick
+//Magnemite
+card.BS53.name=Magnetilo
+attack.BS53.1.name=Donnerwelle
+attack.BS53.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon gelähmt.
+attack.BS53.2.name=Finale
+attack.BS53.2.text=Fügt jedem Pokémon auf der Bank eines jeden Spielers 10 Schadenspunkte zu. Magnetilo fügt sich selbst 40 Schadenspunkte zu.
+//Metapod
+card.BS54.name=Safcon
+attack.BS54.1.name=Härtner
+attack.BS54.1.text=Wirf eine Münze. Bei „Kopf“ verhindere allen Schaden, der Safcon während des nächsten Zugs Deines Gegners zugefügt wird. (Alle anderen Auswirkungen finden immer noch statt.)
+attack.BS54.2.name=Stachelspore
+attack.BS54.2.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon gelähmt.
+//Nidoran Male
+card.BS55.name=Nidoran♂
+attack.BS55.1.name=Gefährliches Horn
+attack.BS55.1.text=Wirf eine Münze. Bei „Zahl“ zeigt dieser Angriff keine Wirkung.
+//Onix
+card.BS56.name=Onix
+attack.BS56.1.name=Steinwurf
+attack.BS56.2.name=Härtner
+attack.BS56.2.text=Immer wenn Onix während des nächsten gegnerischen Zugs 30 oder weniger Schadenspunkte zugefügt werden, verhindere diesen Schaden. (Alle anderen Auswirkungen von Angriffen finden immer noch statt.)
+//Pidgey
+card.BS57.name=Pidgey
+attack.BS57.1.name=Wirbelwind
+attack.BS57.1.text=Dein Gegner tauscht eines der Pokémon auf seiner Bank mit dem verteidigenden Pokémon aus.
+//Pikachu
+card.BS58.name=Pikachu
+attack.BS58.1.name=Nagen
+attack.BS58.2.name=Donnerschock
+attack.BS58.2.text=Wirf eine Münze. Bei „Zahl“ fügt Pikachu sich selbst 10 Schadenspunkte zu.
+//Poliwag
+card.BS59.name=Quapsel
+attack.BS59.1.name=Aquaknarre
+attack.BS59.1.text=Fügt 10 weitere Schadenspunkte für jede auf Quapsel abgelegte Wasser Energie zu, die nicht zum Zahlen der Energiekosten für diesen Angriff verwendet wurde, bis zu 20 zusätzlichen Schadenspunkten.
+//Ponyta
+card.BS60.name=Ponita
+attack.BS60.1.name=Schmetterkick
+attack.BS60.2.name=Flammenpfad
+//Rattata
+card.BS61.name=Rattfratz
+attack.BS61.1.name=Biss
+//Sandshrew
+card.BS62.name=Sandan
+attack.BS62.1.name=Sandwirbel
+attack.BS62.1.text=Falls das verteidigende Pokémon während des nächsten Zugs anzugreifen versucht, wirft dein Gegner eine Münze. Bei „Zahl“ zeigt dieser Angriff keine Wirkung.
+attack.sandattack.effect.text=Wirf eine Münze. Bei „Zahl“ zeigt dieser Angriff keine Wirkung.
+//Squirtle
+card.BS63.name=Schiggy
+attack.BS63.1.name=Blubber
+attack.BS63.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon gelähmt.
+attack.BS63.2.name=Panzerschutz
+attack.BS63.2.text=Wirf eine Münze. Bei „Kopf“ verhindere allen Schaden, der Schiggy während des nächsten Zugs Deines Gegners zugefügt wird. (Alle anderen Auswirkungen von Angriffen finden immer noch statt.)
+//Starmie
+card.BS64.name=Starmie
+attack.BS64.1.name=Erholung
+attack.BS64.1.text=Entferne eine auf Starmie abgelegte Wasser-Energie. Entferne alle Schadensmarken von Starmie.
+attack.BS64.2.name=Sternenfrost
+attack.BS64.2.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon gelähmt.
+//Staryu
+card.BS65.name=Sterndu
+attack.BS65.1.name=Hieb
+//Tangela
+card.BS66.name=Tangela
+attack.BS66.1.name=Klammergriff
+attack.BS66.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon gelähmt.
+attack.BS66.2.name=Giftpuder
+attack.BS66.2.text=Das verteidigende Pokémon ist vergiftet.
+//Voltorb
+card.BS67.name=Voltobal
+attack.BS67.1.name=Tackle
+//Vulpix
+card.BS68.name=Vulpix
+attack.BS68.1.name=Konfustrahl
+attack.BS68.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon verwirrt.
+//Weedle
+card.BS69.name=Hornliu
+attack.BS69.1.name=Giftstachel
+attack.BS69.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon vergiftet.
+
+//Base Set - Trainer Cards
+card.BS70.name=Piepi-Puppe
+card.BS70.text=Spiele Piepi-Puppe, als ob es ein Basis-Pokémon wäre. Piepi-Puppe hat keine Angriffe, kann sich nicht zurückziehen, und kann nicht schlafend, verwirrt, gelähmt oder vergiftet sein. Piepi-Puppe zählt nicht als kampfunfähig gemachtes Pokémon. Jederzeit während Deines Zugs kannst Du Piepi-Puppe entfernen.
+card.BS71.name=Computersuche
+card.BS71.text=Entferne 2 Karten aus Deiner Hand, um im Deck nach einer beliebigen Karte zu suchen. Nimm die gewählte Karte auf Deine Hand und mische danach das Deck.
+card.BS72.name=Rückentwicklungs-Spray
+card.BS72.text=Wähle eines Deiner Pokémon im Spiel und eine Evolutionsphase. Entferne alle Evolutionskarten dieser oder höherer Phasen, die auf diesem Pokémon abgelegt sind. Dieses Pokémon ist nicht mehr schlafend, verwirrt, gelähmt, vergiftet oder in sonst einem Zustand, der das Ergebnis eines Angriffs ist.
+card.BS72.effect.selector.choosepokemon=Wähle ein Pokemon
+card.BS72.effect.selector.chooseevolution=Wähle eine Evolutionsphase (diese wird entfernt)
+card.BS73.name=Falscher Professor Eich
+card.BS73.text=Dein Gegner mischt die Karten seiner Hand in sein Deck und zieht sieben neue Karten.
+card.BS74.name=Detektor
+card.BS74.text=Entferne 2 Karten aus Deiner Hand, um eine Trainerkarte aus Deinem Ablagestapel aufzunehmen.
+card.BS75.name=Göre
+card.BS75.text=Du und Dein Gegner zeigen sich gegenseitig die Karten auf der Hand, und mischen dann alle Trainerkarten aus der Hand in den Deck.
+card.BS76.name=Pokémon-Züchter
+card.BS76.text=Lege eine Evolutionskarte der Phase 2 aus Deiner Hand auf das entsprechende Basis-Pokémon. Folgt gewöhnlichen Evolutions-Regeln.
+card.BS76.effect.selector.stage2=Wähle ein Phase 2 Pokémon
+card.BS76.effect.selector.basic=Wähle ein passendes Basis-Pokémon
+card.BS77.name=Pokémon-Händler
+card.BS77.text=Tausche eine Pokémon in Deiner Hand gegen eine Pokémon aus Deinem Deck. Zeige Deinem Gegner beide Karten. Mische danach Dein Deck.
+card.BS78.name=Aufwisch
+card.BS78.text=Wähle eines Deiner Pokémon im Spiel und nimm seine Basis-Karte auf Deine Hand zurück. (Entferne alle auf dieser Karte abgelegten Karten.)
+card.BS79.name=Super Energie-Absauger
+card.BS79.text=Entferne eine auf einem Deiner Pokémon abgelegte Energiekarte, um ein Pokémon Deines Gegners zu wählen. Entferne 2 darauf abgelegte Energiekarten.
+card.BS80.name=Defender
+card.BS80.text=Lege Defender an 1 deiner Pokémon an; lege diese Karte am Ende des nächsten Zuges deines Gegners auf deinen Ablagestapel. Schaden, der diesem Pokémon durch einen gegnerischen Angriff zugefügt wird, wird um 20 Schadenspunkte reduziert (nachdem Schwäche und Resistenz abgerechnet wurden).
+card.BS81.name=Energiezugewinnung
+card.BS81.text=Tausche 1 Karte auf Deiner Hand gegen bis zu 2 Basis-Energiekarten von Deinem Ablagestapel.
+card.BS82.name=Hyperheiler
+card.BS82.text=Dein aktives Pokémon ist nicht mehr schlafend, verwirrt, gelähmt oder vergiftet.
+card.BS83.name=Wartung
+card.BS83.text=Mische 2 Karten aus Deiner Hand in Dein Deck, und ziehe eine neue Karte.
+card.BS84.name=PlusPower
+card.BS84.text=Lege PlusPower auf Deinem aktiven Pokémon ab, und entferne die Karte am Ende Deines Zugs wieder. Fügt Deine Attacke dem verteidigenden Pokémon Schaden zu, so erleidet es 10 weitere Schadenspunkte (nachdem Schwäche und Resistenz abgerechnet wurden).
+card.BS85.name=Pokémon Center
+card.BS85.text=Entferne alle auf Deinen Pokémon abgelegten Schadensmarken. Entferne dann alle auf diesen Pokémon abgelegten Energiekarten.
+card.BS86.name=Pokémon-Flöte
+card.BS86.text=Wähle eine Basis-Pokémon-Karte vom Ablagestapel Deines Gegners und plaziere sie auf seiner Bank.
+card.BS87.name=Pokédex
+card.BS87.text=Schaue Dir bis zu fünf der obersten Karten Deines Decks an und lege sie in beliebiger Reihenfolge wieder auf Dein Deck zurück.
+card.BS88.name=Professor Eich
+card.BS88.text=Entferne alle Karten aus Deiner Hand und ziehe sieben neue Karten.
+card.BS89.name=Beleber
+card.BS89.text=Lege eine Basis-Pokémon-Karte aus Deinem Ablagestapel auf Deine Bank. Lege Schadensmarken in Höhe der Hälfte der KP des Pokémon (auf die nächste Zehnerstelle abgerundet) auf das Pokémon.
+card.BS90.name=Supertrank
+card.BS90.text=Entferne eine auf einem Deiner Pokémon abgelegte Energiekarte, um bis zu vier Schadensmarken davon zu entfernen.
+card.BS91.name=Bill
+card.BS91.text=Ziehe 2 Karten.
+card.BS92.name=Energie-Absauger
+card.BS92.text=Wähle eine auf einem Pokémon Deines Gegners abgelegte Energiekarte und entferne sie.
+card.BS93.name=Windhauch
+card.BS93.text=Wähle ein Pokémon auf der Bank Deines Gegners und tausche es mit seinem aktiven Pokémon aus.
+card.BS94.name=Trank
+card.BS94.text=Entferne bis zu 2 Schadensmarken von einem Deiner Pokémon.
+card.BS94.effect.selector=Wähle ein Pokémon
+card.BS95.name=Tausch
+card.BS95.text=Tausche eines Deiner Pokémon auf der Bank mit Deinem aktiven Pokémon aus.
+
+//Base Set - Energy
+card.BS96.name=Doppelte farblose Energie
+card.BS96.text=Liefert 2 farblose Energie. Zählt nicht als Basis-Energiekarte.
+card.BS97.name=Kampf-Energie
+card.BS98.name=Feuer-Energie
+card.BS99.name=Pflanzen-Energie
+card.BS100.name=Elektro-Energie
+card.BS101.name=Psycho-Energie
+card.BS102.name=Wasser-Energie
+
+//Base Set - Decks
+deck.trainerDeckA.name=Trainer Deck A
+deck.trainerDeckB.name=Trainer Deck B
+deck.2playerStarter.name=2-Spieler Starter Set
+deck.overgrowth.name=Überwuchs
+deck.zap.name=Zapp!
+deck.brushfire.name=Buschfeuer
+deck.blackout.name=Blackout
+
+//Jungle Set
+set.JG.name=Dschungel-Set
+
+//Jungle Set - Pokemon and Attacks
+//Clefable
+card.JG1.name=Pixi
+attack.JG1.1.name=Metronom
+attack.JG1.1.text=Kopiere einen der Angriffe des verteidigenden Pokémon, außer seinen Energiekosten und was sonst noch für diesen Angriff erforderlich ist, wie z.B. das Entfernen von Energiekarten.
+attack.JG1.2.name=Komprimator
+attack.JG1.2.text=Aller Schaden, der Pixi während des nächsten Zuges Deines Gegners durch Angriffe zugefügt wird, wird um 20 Schadenspunkte reduziert (nachdem Schwäche und Resistenz abgerechnet wurden).
+//Electrode
+card.JG2.name=Lektrobal
+attack.JG2.1.name=Tackle
+attack.JG2.1.text=
+attack.JG2.2.name=Kettenblitz
+attack.JG2.2.text=Ist das verteidigende Pokémon nicht farblos, fügt dieser Angriff jedem auf der Bank jedes Spielers befindlichen Pokémon vom gleichen Typ wie das verteidigende Pokémon 10 Schadenspunkte zu.
+//Flareon
+card.JG3.name=Flamara
+attack.JG3.1.name=Ruckzuckhieb
+attack.JG3.1.text=Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 20 weitere Schadenspunkte zu.
+attack.JG3.2.name=Flammenwurf
+attack.JG3.2.text=Entferne eine auf Flamara abgelegte Feuer-Energie.
+//Jolteon
+card.JG4.name=Blitza
+attack.JG4.1.name=Ruckzuckhieb
+attack.JG4.1.text=Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 20 weitere Schadenspunkte zu.
+attack.JG4.2.name=Nadelrakete
+attack.JG4.2.text=Wirf 4 Münzen. Dieser Angriff fügt jedesmal, wenn die Münze „Kopf“ zeigt, 20 Schadenspunkte zu.
+//Kangaskhan
+card.JG5.name=Kangama
+attack.JG5.1.name=Apportieren
+attack.JG5.1.text=Ziehe eine Karte.
+attack.JG5.2.name=Kometenhieb
+attack.JG5.2.text=Wirf 4 Münzen. Dieser Angriff fügt jedesmal, wenn die Münze „Kopf“ zeigt, 20 Schadenspunkte zu.
+//Mr. Mime
+card.JG6.name=Pantimos
+ability.JG6.name=Unsichtbare Wand
+ability.JG6.text=Immer wenn ein Angriff Pantimos 30 oder mehr Schadenspunkte zufügt (nachdem Schwäche und Resistenz abgerechnet wurden), verhindere diesen Schaden. (Alle anderen Auswirkungen von Angriffen finden immer noch statt.) Nicht einsetzbar bei Schlaf, Verwirrung oder Paralyse.
+attack.JG6.1.name=Meditation
+attack.JG6.1.text=Fügt 10 Schadenspunkte plus 10 weitere Schadenspunkte für jede Schadensmarke auf dem verteidigenden Pokémon zu.
+//Nidoqueen
+card.JG7.name=Nidoqueen
+attack.JG7.1.name=Minnesänger
+attack.JG7.1.text=Fügt 20 weitere Schadenspunkte für jedes Nidoking zu, das du im Spiel hast.
+attack.JG7.2.name=Megahieb
+attack.JG7.2.text=
+//Pidgeot
+card.JG8.name=Tauboss
+attack.JG8.1.name=Flügelschlag
+attack.JG8.1.text=
+attack.JG8.2.name=Hurrikan
+attack.JG8.2.text=Falls dieser Angriff das verteidigende Pokémon nicht kampfunfähig macht, gib es und alle darauf abgelegten Karten deinem Gegner auf die Hand zurück.
+//Pinsir
+card.JG9.name=Pinsir
+attack.JG9.1.name=Eiserner Griff
+attack.JG9.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon jetzt gelähmt.
+attack.JG9.2.name=Guillotine
+attack.JG9.2.text=
+//Scyther
+card.JG10.name=Sichlor
+attack.JG10.1.name=Schwerttanz
+attack.JG10.1.text=Während deines nächsten Zuges betragen die Basis-Schadenspunkte von Sichlors Schlitzer-Angriff 60 anstatt 30.
+attack.JG10.2.name=Schlitzer
+attack.JG10.2.text=
+//Snorlax
+card.JG11.name=Relaxo
+ability.JG11.name=Dickhäuter
+ability.JG11.text=Relaxo kann nicht in den Schlaf versetzt, verwirrt, gelähmt oder vergiftet werden. Nicht einsetzbar bei Schlaf, Verwirrung oder Paralyse.
+attack.JG11.1.name=Bodyslam
+attack.JG11.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon jetzt gelähmt.
+//Vaporeon
+card.JG12.name=Aquana
+attack.JG12.1.name=Ruckzuckhieb
+attack.JG12.1.text=Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 20 weitere Schadenspunkte zu.
+attack.JG12.2.name=Aquaknarre
+attack.JG12.2.text=Fügt 10 weitere Schadenspunkte für jede auf Aquana abgelegte Wasser-Energie zu, die nicht zum Zahlen der Energiekosten für diesen Angriff verwendet wurde, bis zu 20 zusätzlichen Schadenspunkten.
+//Venomoth
+card.JG13.name=Omot
+ability.JG13.name=Wechsel
+ability.JG13.text=Einmal während deines Zuges kannst du den Typ von Omot in den Typ eines im Spiel befindlichen Pokémon deiner Wahl (Farblos ausgenommen) umwandeln. Nicht einsetzbar bei Schlaf, Verwirrung oder Paralyse.
+attack.JG13.1.name=Vergiftungspuder
+attack.JG13.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon jetzt verwirrt und vergiftet.
+//Victreebel
+card.JG14.name=Sarzenia
+attack.JG14.1.name=Köder
+attack.JG14.1.text=Wähle ein Pokémon auf der Bank deines Gegners und tausche es gegen sein aktives Pokemon aus.
+attack.JG14.2.name=Kleber
+attack.JG14.2.text=Wirf eine Münze. Bei „Kopf“ kann das verteidigende Pokémon sich während des nächsten Zuges des Gegners nicht zurückziehen.
+//Vileplume
+card.JG15.name=Giflor
+ability.JG15.name=Heiler
+ability.JG15.text=Einmal während deines Zuges kannst du eine Münze werfen. Bei „Kopf“ entferne eine Schadensmarke von einem deiner Pokémon. Nicht einsetzbar bei Schlaf, Verwirrung oder Paralyse.
+attack.JG15.1.name=Blättertanz
+attack.JG15.1.text=Wirf drei Münzen. Dieser Angriff fügt jedesmal, wenn die Münze „Kopf“ zeigt, 40 Schadenspunkte zu. Giflor ist jetzt verwirrt.
+//Wigglytuff
+card.JG16.name=Knuddeluff
+attack.JG16.1.name=Wiegenlied
+attack.JG16.1.text=Das verteidigende Pokémon schläft jetzt.
+attack.JG16.2.name=Wellenreiten
+attack.JG16.2.text=Fügt 10 weitere Schadenspunkte für jedes Pokémon auf deiner Bank zu.
+//Clefable
+card.JG17.name=Pixi
+attack.JG17.1.name=Metronom
+attack.JG17.1.text=Kopiere einen der Angriffe des verteidigenden Pokémon, außer seinen Energiekosten und was sonst noch für diesen Angriff erforderlich ist, wie z.B. das Entfernen von Energiekarten.
+attack.JG17.2.name=Komprimator
+attack.JG17.2.text=Aller Schaden, der Pixi während des nächsten Zuges Deines Gegners durch Angriffe zugefügt wird, wird um 20 Schadenspunkte reduziert (nachdem Schwäche und Resistenz abgerechnet wurden).
+//Electrode
+card.JG18.name=Lektrobal
+attack.JG18.1.name=Tackle
+attack.JG18.1.text=
+attack.JG18.2.name=Kettenblitz
+attack.JG18.2.text=Ist das verteidigende Pokémon nicht farblos, fügt dieser Angriff jedem auf der Bank jedes Spielers befindlichen Pokémon vom gleichen Typ wie das verteidigende Pokémon 10 Schadenspunkte zu.
+//Flareon
+card.JG19.name=Flamara
+attack.JG19.1.name=Ruckzuckhieb
+attack.JG19.1.text=Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 20 weitere Schadenspunkte zu.
+attack.JG19.2.name=Flammenwurf
+attack.JG19.2.text=Entferne eine auf Flamara abgelegte Feuer-Energie.
+//Jolteon
+card.JG20.name=Blitza
+attack.JG20.1.name=Ruckzuckhieb
+attack.JG20.1.text=Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 20 weitere Schadenspunkte zu.
+attack.JG20.2.name=Nadelrakete
+attack.JG20.2.text=Wirf 4 Münzen. Dieser Angriff fügt jedesmal, wenn die Münze „Kopf“ zeigt, 20 Schadenspunkte zu.
+//Kangaskhan
+card.JG21.name=Kangama
+attack.JG21.1.name=Apportieren
+attack.JG21.1.text=Ziehe eine Karte.
+attack.JG21.2.name=Kometenhieb
+attack.JG21.2.text=Wirf 4 Münzen. Dieser Angriff fügt jedesmal, wenn die Münze „Kopf“ zeigt, 20 Schadenspunkte zu.
+//Mr. Mime
+card.JG22.name=Pantimos
+ability.JG22.name=Unsichtbare Wand
+ability.JG22.text=Immer wenn ein Angriff Pantimos 30 oder mehr Schadenspunkte zufügt (nachdem Schwäche und Resistenz abgerechnet wurden), verhindere diesen Schaden. (Alle anderen Auswirkungen von Angriffen finden immer noch statt.) Nicht einsetzbar bei Schlaf, Verwirrung oder Paralyse.
+attack.JG22.1.name=Meditation
+attack.JG22.1.text=Fügt 10 Schadenspunkte plus 10 weitere Schadenspunkte für jede Schadensmarke auf dem verteidigenden Pokémon zu.
+//Nidoqueen
+card.JG23.name=Nidoqueen
+attack.JG23.1.name=Minnesänger
+attack.JG23.1.text=Fügt 20 weitere Schadenspunkte für jedes Nidoking zu, das du im Spiel hast.
+attack.JG23.2.name=Megahieb
+attack.JG23.2.text=
+//Pidgeot
+card.JG24.name=Tauboss
+attack.JG24.1.name=Flügelschlag
+attack.JG24.1.text=
+attack.JG24.2.name=Hurrikan
+attack.JG24.2.text=Falls dieser Angriff das verteidigende Pokémon nicht kampfunfähig macht, gib es und alle darauf abgelegten Karten deinem Gegner auf die Hand zurück.
+//Pinsir
+card.JG25.name=Pinsir
+attack.JG25.1.name=Eiserner Griff
+attack.JG25.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon jetzt gelähmt.
+attack.JG25.2.name=Guillotine
+attack.JG25.2.text=
+//Scyther
+card.JG26.name=Sichlor
+attack.JG26.1.name=Schwerttanz
+attack.JG26.1.text=Während deines nächsten Zuges betragen die Basis-Schadenspunkte von Sichlors Schlitzer-Angriff 60 anstatt 30.
+attack.JG26.2.name=Schlitzer
+attack.JG26.2.text=
+//Snorlax
+card.JG27.name=Relaxo
+ability.JG27.name=Dickhäuter
+ability.JG27.text=Relaxo kann nicht in den Schlaf versetzt, verwirrt, gelähmt oder vergiftet werden. Nicht einsetzbar bei Schlaf, Verwirrung oder Paralyse.
+attack.JG27.1.name=Bodyslam
+attack.JG27.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon jetzt gelähmt.
+//Vaporeon
+card.JG28.name=Aquana
+attack.JG28.1.name=Ruckzuckhieb
+attack.JG28.1.text=Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 20 weitere Schadenspunkte zu.
+attack.JG28.2.name=Aquaknarre
+attack.JG28.2.text=Fügt 10 weitere Schadenspunkte für jede auf Aquana abgelegte Wasser-Energie zu, die nicht zum Zahlen der Energiekosten für diesen Angriff verwendet wurde, bis zu 20 zusätzlichen Schadenspunkten.
+//Venomoth
+card.JG29.name=Omot
+ability.JG29.name=Wechsel
+ability.JG129.text=Einmal während deines Zuges kannst du den Typ von Omot in den Typ eines im Spiel befindlichen Pokémon deiner Wahl (Farblos ausgenommen) umwandeln. Nicht einsetzbar bei Schlaf, Verwirrung oder Paralyse.
+attack.JG29.1.name=Vergiftungspuder
+attack.JG29.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon jetzt verwirrt und vergiftet.
+//Victreebel
+card.JG30.name=Sarzenia
+attack.JG30.1.name=Köder
+attack.JG30.1.text=Wähle ein Pokémon auf der Bank deines Gegners und tausche es gegen sein aktives Pokemon aus.
+attack.JG30.2.name=Kleber
+attack.JG30.2.text=Wirf eine Münze. Bei „Kopf“ kann das verteidigende Pokémon sich während des nächsten Zuges des Gegners nicht zurückziehen.
+//Vileplume
+card.JG31.name=Giflor
+ability.JG31.name=Heiler
+ability.JG31.text=Einmal während deines Zuges kannst du eine Münze werfen. Bei „Kopf“ entferne eine Schadensmarke von einem deiner Pokémon. Nicht einsetzbar bei Schlaf, Verwirrung oder Paralyse.
+attack.JG31.1.name=Blättertanz
+attack.JG31.1.text=Wirf drei Münzen. Dieser Angriff fügt jedesmal, wenn die Münze „Kopf“ zeigt, 40 Schadenspunkte zu. Giflor ist jetzt verwirrt.
+//Wigglytuff
+card.JG32.name=Knuddeluff
+attack.JG32.1.name=Wiegenlied
+attack.JG32.1.text=Das verteidigende Pokémon schläft jetzt.
+attack.JG32.2.name=Wellenreiten
+attack.JG32.2.text=Fügt 10 weitere Schadenspunkte für jedes Pokémon auf deiner Bank zu.
+//Butterfree
+card.JG33.name=Smettbo
+attack.JG33.1.name=Wirbelwind
+attack.JG33.1.text=Dein Gegner tauscht eines der Pokémon auf seiner Bank mit dem verteidigenden Pokémon aus.
+attack.JG33.2.name=Megasauger
+attack.JG33.2.text=Entferne von Smettbo Schadensmarken in Höhe der Hälfte des Schadens (auf die nächsten 10 aufgerundet), der dem verteidigenden Pokémon durch diesen Angriff zugefügt wurden.
+//Dodrio
+card.JG34.name=Dodri
+ability.JG34.name=Rückzugshilfe
+ability.JG34.text=Solange Dodri auf der Bank sitzt, zahle eine Energie weniger, um dein aktives Pokémon zurückzuziehen.
+attack.JG34.1.name=Raserei
+attack.JG34.1.text=Fügt 10 weitere Schadenspunkte für jede Schadensmarke auf Dodri zu.
+//Exeggutor
+card.JG35.name=Kokowei
+attack.JG35.1.name=Teleport
+attack.JG35.1.text=Tausche Kokowei mit einem Pokémon auf deiner Bank aus.
+attack.JG35.2.name=Große Eggsplosion
+attack.JG35.2.text=Wirf eine Anzahl Münzen, die der auf Kokowei abgelegten Energiemenge entspricht. Dieser Angriff fügt jedesmal, wenn die Münze „Kopf“ zeigt, 20 Schadenspunkte zu.
+//Fearow
+card.JG36.name=Ibitak
+attack.JG36.1.name=Agilität
+attack.JG36.1.text=Wirf eine Münze. Bei „Kopf“ verhindere während des nächsten gegnerischen Zuges alle Auswirkungen von Angriffen auf Ibitak (einschließlich der Schadenspunkte).
+attack.JG36.2.name=Bohrschnabel
+attack.JG36.2.text=
+//Gloom
+card.JG37.name=Duflor
+attack.JG37.1.name=Giftpuder
+attack.JG37.1.text=Das verteidigende Pokémon ist jetzt vergiftet.
+attack.JG37.2.name=Fäulnisgeruch
+attack.JG37.2.text=Sowohl das verteidigende Pokémon als auch Duflor sind jetzt verwirrt.
+//Lickitung
+card.JG38.name=Schlurp
+attack.JG38.1.name=Zungenangriff
+attack.JG38.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon jetzt gelähmt.
+attack.JG38.2.name=Superschall
+attack.JG38.2.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon jetzt verwirrt.
+//Marowak
+card.JG39.name=Knogga
+attack.JG39.1.name=Knochenmerang
+attack.JG39.1.text=Wirf zwei Münzen. Dieser Angriff fügt jedesmal, wenn die Münze „Kopf“ zeigt, 30 Schadenspunkte zu.
+attack.JG39.2.name=Freundesruf
+attack.JG39.2.text=Suche in deinem Deck nach einer Kampf Basis-Pokémon-Karte und lege sie auf deine Bank. Mische dein Deck danach.
+//Nidorina
+card.JG40.name=Nidorina
+attack.JG40.1.name=Superschall
+attack.JG40.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon jetzt verwirrt.
+attack.JG40.2.name=Doppelkick
+attack.JG40.2.text=Wirf zwei Münzen. Dieser Angriff fügt jedesmal, wenn die Münze „Kopf“ zeigt, 30 Schadenspunkte zu.
+//Parasect
+card.JG41.name=Parasek
+attack.JG41.1.name=Pilzspore
+attack.JG41.1.text=Das verteidigende Pokémon schläft jetzt.
+attack.JG41.2.name=Schlitzer
+attack.JG41.2.text=
+//Persian
+card.JG42.name=Snobilikat
+attack.JG42.1.name=Kratzer
+attack.JG42.1.text=
+attack.JG42.2.name=Katzensprung
+attack.JG42.2.text=Greift das verteidigende Pokémon Snobilikat während des nächsten gegnerischen Zuges an, wird der vom Angriff angerichtete Schaden um 10 reduziert.
+//Primeape
+card.JG43.name=Rasaff
+attack.JG43.1.name=Kratzfurie
+attack.JG43.1.text=Wirf drei Münzen. Dieser Angriff fügt jedesmal, wenn die Münze „Kopf“ zeigt, 20 Schadenspunkte zu.
+attack.JG43.2.name=Trotzanfall
+attack.JG43.2.text=Wirf eine Münze. Bei „Zahl“ ist Rasaff jetzt verwirrt.
+//Rapidash
+card.JG44.name=Gallopa
+attack.JG44.1.name=Stampfer
+attack.JG44.1.text=Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 10 weitere Schadenspunkte zu.
+attack.JG44.2.name=Agilität
+attack.JG44.2.text=Wirf eine Münze. Bei „Kopf“ verhindere während des nächsten gegnerischen Zuges alle Auswirkungen von Angriffen auf Gallopa (einschließlich der Schadenspunkte).
+//Rhydon
+card.JG45.name=Rizeros
+attack.JG45.1.name=Hornattacke
+attack.JG45.1.text=
+attack.JG45.2.name=Ramme
+attack.JG45.2.text=Rizeros fügt sich selbst 20 Schadenspunkte zu. Dein Gegner wählt ein Pokémon auf seiner Bank und tauscht es mit dem verteidigenden Pokémon aus.
+//Seaking
+card.JG46.name=Golking
+attack.JG46.1.name=Hornattacke
+attack.JG46.1.text=
+attack.JG46.2.name=Kaskade
+attack.JG46.2.text=
+//Tauros
+card.JG47.name=Tauros
+attack.JG47.1.name=Stampfer
+attack.JG47.1.text=Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 10 weitere Schadenspunkte zu.
+attack.JG47.2.name=Randale
+attack.JG47.2.text=Fügt 10 weitere Schadenspunkte für jede Schadensmarke auf Tauros zu. Wirf eine Münze. Bei „Zahl“ ist Tauros jetzt verwirrt.
+//Weepinbell
+card.JG48.name=Ultrigaria
+attack.JG48.1.name=Giftpuder
+attack.JG48.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon jetzt vergiftet.
+attack.JG48.2.name=Rasierblatt
+attack.JG48.2.text=
+//Bellsprout
+card.JG49.name=Knofensa
+attack.JG49.1.name=Rankenhieb
+attack.JG49.1.text=
+attack.JG49.2.name=Familienruf
+attack.JG49.2.text=Suche in deinem Deck nach einer Basis-Pokémon-Karte mit dem Namen Knofensa und lege sie auf deine Bank. Mische dein Deck danach.
+//Cubone
+card.JG50.name=Tragosso
+attack.JG50.1.name=Geheule
+attack.JG50.1.text=Greift das verteidigende Pokémon Tragosso während des nächsten gegnerischen Zuges an, wird aller aufgrund dieses Angriffs zugefügte Schaden um 20 Schadenspunkte reduziert.
+attack.JG50.2.name=Raserei
+attack.JG50.2.text=Fügt 10 weitere Schadenspunkte für jede Schadensmarke auf Tragosso zu.
+//Eevee
+card.JG51.name=Evoli
+attack.JG51.1.name=Schwanzschlag
+attack.JG51.1.text=Wirf eine Münze. Bei „Kopf“ kann das verteidigende Pokémon Evoli während des nächsten Zuges des Gegners nicht angreifen.
+attack.JG51.2.name=Ruckzuckhieb
+attack.JG51.2.text=Wirf eine Münze. Bei „Kopf“ fügt dieser Angriff 20 weitere Schadenspunkte zu.
+//Exeggucte
+card.JG52.name=Owei
+attack.JG52.1.name=Hypnose
+attack.JG52.1.text=Das verteidigende Pokémon schläft jetzt.
+attack.JG52.2.name=Egelsamen
+attack.JG52.2.text=Falls nicht aller Schaden von diesem Angriff verhindert wird, kannst du eine Schadensmarke von Owei entfernen.
+//Goldeen
+card.JG53.name=Goldini
+attack.JG53.1.name=Hornattacke
+attack.JG53.1.text=
+//Jigglypuff
+card.JG54.name=Pummeluff
+attack.JG54.1.name=Wiegenlied
+attack.JG54.1.text=Das verteidigende Pokémon schläft jetzt.
+attack.JG54.2.name=Pfund
+attack.JG54.2.text=
+//Mankey
+card.JG55.name=Menki
+ability.JG55.name=Verstohlener Blick
+ability.JG55.text=Einmal während deines Zuges kannst du dir eine der folgenden Karten anschauen: die oberste Karte vom Deck eines Spielers, eine zufällige Karte von der Hand deines Gegners oder eine Preiskarte eines Spielers. Nicht einsetzbar bei Schlaf, Verwirrung oder Paralyse.
+attack.JG55.1.name=Kratzer
+attack.JG55.1.text=
+//Meowth
+card.JG56.name=Mauzi
+attack.JG56.1.name=Zahltag
+attack.JG56.1.text=Wirf eine Münze. Bei „Kopf“ ziehe eine Karte.
+//Nidoran♀
+card.JG57.name=Nidoran♀
+attack.JG57.1.name=Kratzfurie
+attack.JG57.1.text=Wirf drei Münzen. Dieser Angriff fügt jedesmal, wenn die Münze „Kopf“ zeigt, 10 Schadenspunkte zu.
+attack.JG57.2.name=Familienruf
+attack.JG57.2.text=Suche in deinem Deck nach einer Basis-Pokémon-Karte mit dem Namen Nidoran♂ oder Nidoran♀ und lege sie auf deine Bank. Mische dein Deck danach.
+//Oddish
+card.JG58.name=Myrapla
+attack.JG58.1.name=Stachelspore
+attack.JG58.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon jetzt gelähmt.
+attack.JG58.2.name=Sprössling
+attack.JG58.2.text=Suche in deinem Deck nach einer Basis-Pokémon-Karte mit dem Namen Myrapla und lege sie auf deine Bank. Mische dein Deck danach.
+card.JG59.name=Paras
+attack.JG59.1.name=Kratzer
+attack.JG59.1.text=
+attack.JG59.2.name=Pilzspore
+attack.JG59.2.text=Das verteidigende Pokémon schläft jetzt.
+//Pikachu
+card.JG60.name=Pikachu
+attack.JG60.1.name=Funkenregen
+attack.JG60.1.text=Wähle ein Pokémon auf der Bank deines Gegners. Dieser Angriff fügt ihm 10 Schadenspunkte zu.
+//Rhyhorn
+card.JG61.name=Rihorn
+attack.JG61.1.name=Silberblick
+attack.JG61.1.text=Wirf eine Münze. Bei „Kopf“ kann das verteidigende Pokémon Rihorn während des nächsten gegnerischen Zuges nicht angreifen.
+attack.JG61.2.name=Hornattacke
+attack.JG61.2.text=
+//Spearow
+card.JG62.name=Habitak
+attack.JG62.1.name=Schnabel
+attack.JG62.1.text=
+attack.JG62.2.name=Spiegeltrick
+attack.JG62.2.text=Falls Habitak im letzten Zug angegriffen wurde, füge dem verteidigenden Pokémon Schadenspunkte in Höhe der Endstärke dieses Angriffs und alle Auswirkungen, die dieser Angriff auf Habitak hatte, zu.
+//Venonat
+card.JG63.name=Bluzuk
+attack.JG63.1.name=Stachelspore
+attack.JG63.1.text=Wirf eine Münze. Bei „Kopf“ ist das verteidigende Pokémon jetzt gelähmt.
+attack.JG63.2.name=Blutsauger
+attack.JG63.2.text=Entferne von Bluzuk Schadensmarken in Höhe des Schadens, der dem verteidigenden Pokémon durch diesen Angriff zugefügt wurden.
+
+//Jungle Set - Trainer Cards
+card.JG64.name=Poké-Ball
+card.JG64.text=Wirf eine Münze. Bei „Kopf“ darfst du dein Deck nach einer beliebigen Basis-Pokémon- oder Evolutionskarte durchsuchen. Zeige diese Karte deinem Gegner und nimm sie auf deine Hand. Mische dein Deck danach.
+
+//Jungle Set - Decks
+deck.waterBlast.name=Wasserschwall
+deck.powerReserve.name=Kraftreserve
+
+//Prerelease cards
+card.PR1.name=Rayquaza
+attack.PR1.1.name=Himmelsgrollen
+attack.PR1.1.text=Lege die obersten 3 Karten deines Decks auf deinen Ablagestapel. Wenn darunter Energiekarten sind, lege sie an dieses Pokémon an.
+attack.PR1.2.name=Drachensalve
+attack.PR1.2.text=Lege alle an dieses Pokémon angelegten Feuer- und Elektro-Energien auf deinen Ablagestapel. Dieser Angriff fügt 60 Schadenspunkte mal der Anzahl abgelegter Energiekarten zu.
