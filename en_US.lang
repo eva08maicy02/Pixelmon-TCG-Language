@@ -7,7 +7,7 @@ item.card.name=Pixelmon Card
 item.card_introduction.name=Welcome Card
 item.pack.name=Booster Pack
 item.binder.name=Card Binder
-item.coin_set.name=Coinset
+item.coin.name=Coin
 item.card_back.name=Cardback
 item.deck.name=Deck Holder
 item.deck.unopened=unopened
@@ -19,6 +19,7 @@ item.card_printer.name=Card Printer
 item.battle_controller.name=PixelmonTCG BattleBox 4000
 item.rulebook.name=TCG Rulebook
 item.battle_rule.name=TCG Battle Rule
+item.battle_spectator.name=Battle TV
 
 battleRule.instruction=Right click a BattleBox to change the battle rule of the box!
 battleRule.setRule=Set rules for the BattleBox
@@ -28,6 +29,11 @@ battleRule.setStartingCommands=Set commands when battle started
 battleRule.setEndingCommands=Set commands when battle ended
 battleRule.emptyCommands=No commands set
 battleRule.endBattle=End Battle
+
+battleSpectator.title=Battle Spectator
+battleSpectator.controllerLocation=BattleBox Location
+battleSpectator.playerIndex=Player Index
+battleSpectator.foundController=Found BattleBox
 
 achievement.welcome=Welcome!
 achievement.welcome.desc=Welcome to Pixelmon TCG!
@@ -1071,3 +1077,10 @@ card.JG64.text=Flip a coin. If heads, you may search your deck for any Basic Pok
 //Jungle Set - Decks
 deck.waterBlast.name=Water Blast
 deck.powerReserve.name=Power Reserve
+
+//Prerelease cards
+card.PR1.name=Rayquaza
+attack.PR1.1.name=Celestial Roar
+attack.PR1.1.text=Discard the top 3 cards of your deck. Attach any Energy you discard to this Pokémon.
+attack.PR1.2.name=Dragon Burst
+attack.PR1.2.text=Discard all basic Fire and Lightning Energy attached to this Pokémon. This attack does 60 times the number of Energy you discarded.
