@@ -1,13 +1,17 @@
-gui.guiPack.title=You opened a pack!
+gui.guiPack.title=你打開了一個卡包！
 
 ItemGroup.tabTCG1=Pixelmon TCG
+itemGroup.tabTCG2=Pixelmon TCG Printing Tokens
 
 Item.card.name=Pixelmon卡牌
+item.card_introduction.name=Welcome Card
 Item.pack.name=補充包
 Item.binder.name=卡套
 Item.coin_set.name=寶可夢硬幣
 Item.card_back.name=牌背
 Item.deck.name=卡組持有人
+item.deck.unopened=未開封
+item.deck.locked=鎖定
 Item.board.name=遊戲桌布
 Item.sound_mod.name=音效Mod
 
@@ -15,6 +19,7 @@ Item.card_printer.name=卡片印表機
 Item.battle_controller.name=Pixelmon TCG對戰盒 4000
 Item.rulebook.name=TCG規則手冊
 Item.battle_rule.name=TCG對戰規則
+item.battle_spectator.name=Battle TV
 
 battleRule.instruction=滑鼠右鍵點擊一個對戰盒來改變對戰規則
 battleRule.setRule=設定一個對戰盒的規則
@@ -23,6 +28,15 @@ battleRule.prizeCount=獎品計數
 battleRule.setStartingCommands=設定對戰開始時的指令
 battleRule.setEndingCommands=設定對戰結束時的指令
 battleRule.emptyCommands=尚未設定指令
+battleRule.endBattle=結束對戰
+
+battleSpectator.title=旁觀對戰
+battleSpectator.controllerLocation=對戰盒位置
+battleSpectator.playerIndex=玩家指數
+battleSpectator.foundController=找到對戰盒
+
+achievement.welcome=歡迎！
+achievement.welcome.desc=歡迎來到Pixelmon TCG！
 
 achievement.openPack=打開TCG補充包
 achievement.openPack.desc=打開您的第一個TCG補充包
@@ -151,6 +165,64 @@ Item.card.blank.fairy.holo_rare.name=空白妖精卡牌(雙重稀有)
 Item.card.blank.fairy.ultra_rare.name=空白妖精卡牌(超級稀有)
 Item.card.blank.fairy.secretRare.name=空白妖精卡牌(非常稀有)
 
+item.blankToken.name=Card Token
+
+item.token.fire.uncommon.name=§2Fire Token (uncommon)
+item.token.fire.rare.name=§9Fire Token (rare)
+item.token.fire.holo_rare.name=§5Fire Token (holo rare)
+item.token.fire.ultra_rare.name=§6Fire Token (ultra rare)
+
+item.token.water.uncommon.name=§2Water Token (uncommon)
+item.token.water.rare.name=§9Water Token (rare)
+item.token.water.holo_rare.name=§5Water Token (holo rare)
+item.token.water.ultra_rare.name=§6Water Token (ultra rare)
+
+item.token.grass.uncommon.name=§2Grass Token (uncommon)
+item.token.grass.rare.name=§9Grass Token (rare)
+item.token.grass.holo_rare.name=§5Grass Token (holo rare)
+item.token.grass.ultra_rare.name=§6Grass Token (ultra rare)
+
+item.token.lightning.uncommon.name=§2Lightning Token (uncommon)
+item.token.lightning.rare.name=§9Lightning Token (rare)
+item.token.lightning.holo_rare.name=§5Lightning Token (holo rare)
+item.token.lightning.ultra_rare.name=§6Lightning Token (ultra rare)
+
+item.token.psychic.uncommon.name=§2Psychic Token (uncommon)
+item.token.psychic.rare.name=§9Psychic Token (rare)
+item.token.psychic.holo_rare.name=§5Psychic Token (holo rare)
+item.token.psychic.ultra_rare.name=§6Psychic Token (ultra rare)
+
+item.token.fighting.uncommon.name=§2Fighting Token (uncommon)
+item.token.fighting.rare.name=§9Fighting Token (rare)
+item.token.fighting.holo_rare.name=§5Fighting Token (holo rare)
+item.token.fighting.ultra_rare.name=§6Fighting Token (ultra rare)
+
+item.token.colorless.uncommon.name=§2Colorless Token (uncommon)
+item.token.colorless.rare.name=§9Colorless Token (rare)
+item.token.colorless.holo_rare.name=§5Colorless Token (holo rare)
+item.token.colorless.ultra_rare.name=§6Colorless Token (ultra rare)
+
+item.token.metal.uncommon.name=§2Metal Token (uncommon)
+item.token.metal.rare.name=§9Metal Token (rare)
+item.token.metal.holo_rare.name=§5Metal Token (holo rare)
+item.token.metal.ultra_rare.name=§6Metal Token (ultra rare)
+
+item.token.darkness.uncommon.name=§2Darkness Token (uncommon)
+item.token.darkness.rare.name=§9Darkness Token (rare)
+item.token.darkness.holo_rare.name=§5Darkness Token (holo rare)
+item.token.darkness.ultra_rare.name=§6Darkness Token (ultra rare)
+
+item.token.dragon.uncommon.name=§2Dragon Token (uncommon)
+item.token.dragon.rare.name=§9Dragon Token (rare)
+item.token.dragon.holo_rare.name=§5Dragon Token (holo rare)
+item.token.dragon.ultra_rare.name=§6Dragon Token (ultra rare)
+
+item.token.fairy.uncommon.name=§2Fairy Token (uncommon)
+item.token.fairy.rare.name=§9Fairy Token (rare)
+item.token.fairy.holo_rare.name=§5Fairy Token (holo rare)
+item.token.fairy.ultra_rare.name=§6Fairy Token (ultra rare)
+
+
 // General battle
 battle.first=您將是先攻。
 battle.second=您將是後攻。
@@ -160,6 +232,8 @@ battle.guide.settingup.1=1.設定出戰寶可夢
 battle.guide.settingup.2=2.設定後備寶可夢
 battle.guide.settingup.3=3.按下遊戲開始
 battle.guide.settingup.4=4.等待您的對手！
+battle.selector.prize=選擇一張獎品卡
+battle.selector.prize.close=再次點擊予以關閉
 
 // Attack Effects
 attack.effect.changeresistance.selector=挑選新的抗性
@@ -263,7 +337,7 @@ attack.BS12.2.text=選擇自身攜帶的一個炎系能量並丟棄。
 //Poliwrath
 card.BS13.name=蚊香泳士
 attack.BS13.1.name=水槍
-attack.BS13.1.text=Add 10 damage per Water Energy attached to Poliwrath that is not used for this attack's Energy cost, up to 20 bonus damage.
+attack.BS13.1.text=給予蚊香泳士水系能量10點傷害但不會減少攻擊的能量成本，最多可造成20點追加傷害。
 attack.BS13.2.name=潮旋
 attack.BS13.2.text=丟棄對手的出戰寶可夢一個能量卡。
 //Raichu
@@ -468,7 +542,6 @@ attack.BS53.1.name=電磁波
 attack.BS53.1.text=拋擲一次寶可夢硬幣，如果是正面，對手的出戰寶可夢即刻陷入麻痺狀態。
 attack.BS53.2.name=自爆
 attack.BS53.2.text=給予對手所有後備寶可夢10點傷害，小磁怪承受40點傷害。
-
 //Metapod
 card.BS54.name=鐵甲蛹
 attack.BS54.1.name=變硬(Stiffen)
@@ -508,6 +581,7 @@ attack.BS61.1.name=咬住
 card.BS62.name=穿山鼠
 attack.BS62.1.name=潑沙
 attack.BS62.1.text=在對手接下來的回合，目標寶可夢如果使用招式，對手必須投擲一次寶可夢硬幣。如果出現反面，這個招式使用失敗。
+attack.sandattack.effect.text=拋擲一次寶可夢硬幣，如果是反面，這次攻擊未擊中。
 //Squirtle
 card.BS63.name=傑尼龜
 attack.BS63.1.name=泡泡
@@ -1003,3 +1077,10 @@ card.JG64.text=拋擲一次寶可夢硬幣，如果是正面，您可以從您�
 //Jungle Set - decks
 deck.waterBlast.name=Water Blast
 deck.powerReserve.name=Power Reserve
+
+//Prerelease cards
+card.PR1.name=烈空座
+attack.PR1.1.name=天空咆哮
+attack.PR1.1.text=丟棄己方套牌上方的3張卡，並將這些卡中的全部能量卡貼在自身身上。
+attack.PR1.2.name=龍之爆裂
+attack.PR1.2.text=丟棄自身攜帶的所有炎系能量或所有雷系能量，這次攻擊的基本傷害為「60×本次丟棄的能量卡數目」。
